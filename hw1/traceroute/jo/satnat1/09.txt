@@ -1,0 +1,1712 @@
+Command executed successfully
+Output: 1 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.166 (10.68.132.166)  1.985 ms 10.68.132.162 (10.68.132.162)  1.598 ms 10.68.132.170 (10.68.132.170)  1.831 ms
+ 3  138.197.249.52 (138.197.249.52)  1.992 ms 138.197.249.54 (138.197.249.54)  1.389 ms  1.369 ms
+ 4  138.197.250.143 (138.197.250.143)  1.900 ms 138.197.250.149 (138.197.250.149)  1.193 ms 138.197.250.141 (138.197.250.141)  1.219 ms
+ 5  138.197.250.188 (138.197.250.188)  1.617 ms *  1.665 ms
+ 6  * * port-channel1.core3.fra1.he.net (184.104.198.26)  10.382 ms
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  80.923 ms  80.901 ms  80.828 ms
+ 8  * * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  80.608 ms
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  149.176 ms  148.703 ms  148.665 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.630 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  148.070 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  148.159 ms
+12  woa-west-rtr-vl3.SUNet (171.66.255.132)  147.701 ms *  147.969 ms
+13  * * web.stanford.edu (171.67.215.200)  145.362 ms
+
+Command executed successfully
+Output: 2 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.172 (10.68.132.172)  0.463 ms 10.68.132.168 (10.68.132.168)  0.438 ms 10.68.132.164 (10.68.132.164)  0.647 ms
+ 3  138.197.249.62 (138.197.249.62)  0.808 ms  0.788 ms 138.197.249.54 (138.197.249.54)  0.841 ms
+ 4  138.197.250.141 (138.197.250.141)  0.348 ms 138.197.250.153 (138.197.250.153)  0.292 ms 138.197.250.149 (138.197.250.149)  1.729 ms
+ 5  138.197.250.188 (138.197.250.188)  0.448 ms  0.424 ms *
+ 6  * * *
+ 7  * * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  80.431 ms
+ 8  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  80.481 ms  80.460 ms *
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.850 ms hurricane-ic-366923.ip.twelve99-cust.net (195.12.255.210)  148.508 ms *
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.745 ms  148.675 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.681 ms
+12  * * *
+13  * web.stanford.edu (171.67.215.200)  146.054 ms  145.961 ms
+
+Command executed successfully
+Output: 3 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.166 (10.68.132.166)  0.425 ms 10.68.132.172 (10.68.132.172)  0.514 ms 10.68.132.166 (10.68.132.166)  0.377 ms
+ 3  138.197.249.50 (138.197.249.50)  0.698 ms 138.197.249.48 (138.197.249.48)  1.122 ms 138.197.249.54 (138.197.249.54)  1.132 ms
+ 4  138.197.250.143 (138.197.250.143)  0.334 ms 138.197.250.141 (138.197.250.141)  0.383 ms  0.292 ms
+ 5  * * *
+ 6  * * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  115.899 ms *  115.885 ms
+ 8  * * *
+ 9  * * *
+10  * * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.736 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  158.506 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.543 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.735 ms
+12  * woa-west-rtr-vl3.SUNet (171.66.255.132)  147.751 ms  147.893 ms
+13  web.stanford.edu (171.67.215.200)  145.875 ms * *
+
+Command executed successfully
+Output: 4 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.162 (10.68.132.162)  0.425 ms 10.68.132.164 (10.68.132.164)  0.401 ms 10.68.132.172 (10.68.132.172)  0.583 ms
+ 3  138.197.249.56 (138.197.249.56)  0.843 ms 138.197.249.54 (138.197.249.54)  0.824 ms 138.197.249.56 (138.197.249.56)  0.804 ms
+ 4  138.197.250.153 (138.197.250.153)  0.376 ms 138.197.250.141 (138.197.250.141)  0.469 ms 138.197.250.135 (138.197.250.135)  0.381 ms
+ 5  * 138.197.250.188 (138.197.250.188)  0.432 ms  0.406 ms
+ 6  * hurricane-ic-360371.ip.twelve99-cust.net (62.115.175.190)  37.063 ms *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  90.236 ms * *
+ 8  * * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  90.021 ms
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  150.907 ms  150.873 ms  150.851 ms
+11  woa-west-rtr-vl2.SUNet (171.64.255.132)  148.265 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.926 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.925 ms
+12  * woa-west-rtr-vl2.SUNet (171.64.255.132)  147.707 ms  148.184 ms
+13  * web.stanford.edu (171.67.215.200)  145.998 ms  146.034 ms
+
+Command executed successfully
+Output: 5 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.170 (10.68.132.170)  0.437 ms 10.68.132.168 (10.68.132.168)  0.843 ms 10.68.132.170 (10.68.132.170)  0.706 ms
+ 3  138.197.249.50 (138.197.249.50)  1.006 ms *  0.995 ms
+ 4  138.197.250.149 (138.197.250.149)  0.568 ms 138.197.250.153 (138.197.250.153)  0.556 ms  0.542 ms
+ 5  * * *
+ 6  * * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  80.653 ms *  80.727 ms
+ 8  * * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  80.637 ms
+ 9  hurricane-ic-366923.ip.twelve99-cust.net (195.12.255.210)  146.190 ms hurricane-ic-370684.ip.twelve99-cust.net (213.248.104.142)  146.707 ms *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  153.107 ms *  153.004 ms
+11  woa-west-rtr-vl3.SUNet (171.66.255.132)  152.975 ms  147.757 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.938 ms
+12  * woa-west-rtr-vl3.SUNet (171.66.255.132)  147.918 ms *
+13  web.stanford.edu (171.67.215.200)  145.802 ms * *
+
+Command executed successfully
+Output: 6 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.172 (10.68.132.172)  0.438 ms 10.68.132.174 (10.68.132.174)  0.473 ms 10.68.132.176 (10.68.132.176)  0.505 ms
+ 3  138.197.249.52 (138.197.249.52)  1.163 ms 138.197.249.58 (138.197.249.58)  0.840 ms 138.197.249.60 (138.197.249.60)  1.027 ms
+ 4  138.197.250.137 (138.197.250.137)  0.333 ms 138.197.250.153 (138.197.250.153)  0.297 ms 138.197.250.137 (138.197.250.137)  0.290 ms
+ 5  * 138.197.250.188 (138.197.250.188)  0.464 ms  0.443 ms
+ 6  * * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  85.736 ms * *
+ 8  * * *
+ 9  hurricane-ic-370684.ip.twelve99-cust.net (213.248.104.142)  146.744 ms * hurricane-ic-366923.ip.twelve99-cust.net (195.12.255.210)  146.377 ms
+10  * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  149.235 ms  149.146 ms
+11  woa-west-rtr-vl2.SUNet (171.64.255.132)  148.258 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  150.058 ms  150.031 ms
+12  * woa-west-rtr-vl3.SUNet (171.66.255.132)  149.979 ms  149.957 ms
+13  * web.stanford.edu (171.67.215.200)  149.866 ms *
+
+Command executed successfully
+Output: 7 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.166 (10.68.132.166)  0.525 ms 10.68.132.176 (10.68.132.176)  3.177 ms 10.68.132.164 (10.68.132.164)  0.376 ms
+ 3  138.197.249.54 (138.197.249.54)  0.854 ms 138.197.249.48 (138.197.249.48)  0.801 ms 138.197.249.50 (138.197.249.50)  0.771 ms
+ 4  138.197.250.141 (138.197.250.141)  0.483 ms 138.197.250.153 (138.197.250.153)  0.453 ms 138.197.250.139 (138.197.250.139)  0.291 ms
+ 5  138.197.250.188 (138.197.250.188)  0.456 ms * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.703 ms
+11  woa-west-rtr-vl2.SUNet (171.64.255.132)  148.587 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  154.722 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  147.762 ms
+12  * * *
+13  * web.stanford.edu (171.67.215.200)  147.477 ms  147.450 ms
+
+Command executed successfully
+Output: 8 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.168 (10.68.132.168)  0.593 ms 10.68.132.176 (10.68.132.176)  0.403 ms 10.68.132.172 (10.68.132.172)  0.377 ms
+ 3  138.197.249.48 (138.197.249.48)  0.724 ms 138.197.249.50 (138.197.249.50)  1.140 ms 138.197.249.52 (138.197.249.52)  0.925 ms
+ 4  138.197.250.135 (138.197.250.135)  0.341 ms 138.197.250.153 (138.197.250.153)  0.298 ms 138.197.250.137 (138.197.250.137)  0.290 ms
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  152.678 ms  152.719 ms
+11  woa-west-rtr-vl3.SUNet (171.66.255.132)  152.625 ms  152.605 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  152.649 ms
+12  woa-west-rtr-vl3.SUNet (171.66.255.132)  152.564 ms *  152.522 ms
+13  * * web.stanford.edu (171.67.215.200)  152.461 ms
+
+Command executed successfully
+Output: 9 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.168 (10.68.132.168)  1.245 ms  1.213 ms 10.68.132.176 (10.68.132.176)  1.362 ms
+ 3  138.197.249.54 (138.197.249.54)  3.909 ms 138.197.249.62 (138.197.249.62)  1.549 ms 138.197.249.58 (138.197.249.58)  10.385 ms
+ 4  138.197.250.137 (138.197.250.137)  1.461 ms 138.197.250.135 (138.197.250.135)  0.772 ms 138.197.250.137 (138.197.250.137)  1.409 ms
+ 5  138.197.250.188 (138.197.250.188)  14.810 ms * *
+ 6  * * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  85.772 ms  85.986 ms *
+ 8  * * *
+ 9  * * *
+10  * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  158.161 ms *
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  157.922 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.723 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  148.518 ms
+12  * woa-west-rtr-vl3.SUNet (171.66.255.132)  147.695 ms  147.624 ms
+13  * web.stanford.edu (171.67.215.200)  146.090 ms *
+
+Command executed successfully
+Output: 10 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.164 (10.68.132.164)  0.448 ms 10.68.132.174 (10.68.132.174)  0.401 ms 10.68.132.170 (10.68.132.170)  0.459 ms
+ 3  138.197.249.48 (138.197.249.48)  1.009 ms 138.197.249.62 (138.197.249.62)  0.694 ms 138.197.249.60 (138.197.249.60)  1.266 ms
+ 4  138.197.250.153 (138.197.250.153)  0.533 ms 138.197.250.143 (138.197.250.143)  0.399 ms 138.197.250.139 (138.197.250.139)  0.512 ms
+ 5  * 138.197.250.188 (138.197.250.188)  5.004 ms *
+ 6  * * *
+ 7  * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  100.705 ms  100.668 ms
+ 8  * * *
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  152.650 ms  152.625 ms  151.969 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  151.888 ms  151.851 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  151.732 ms
+12  woa-west-rtr-vl2.SUNet (171.64.255.132)  151.645 ms  151.616 ms *
+13  * web.stanford.edu (171.67.215.200)  151.522 ms  151.496 ms
+
+Command executed successfully
+Output: 11 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.172 (10.68.132.172)  0.630 ms 10.68.132.166 (10.68.132.166)  0.453 ms 10.68.132.168 (10.68.132.168)  0.455 ms
+ 3  138.197.249.48 (138.197.249.48)  0.960 ms 138.197.249.58 (138.197.249.58)  12.499 ms 138.197.249.48 (138.197.249.48)  1.129 ms
+ 4  138.197.250.135 (138.197.250.135)  0.467 ms 138.197.250.141 (138.197.250.141)  0.605 ms 138.197.250.139 (138.197.250.139)  1.550 ms
+ 5  138.197.250.188 (138.197.250.188)  0.545 ms *  0.490 ms
+ 6  * * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  81.178 ms * *
+ 8  * * *
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  149.057 ms *  148.968 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.927 ms  148.862 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  153.246 ms
+12  woa-west-rtr-vl3.SUNet (171.66.255.132)  147.675 ms * woa-west-rtr-vl2.SUNet (171.64.255.132)  153.110 ms
+13  web.stanford.edu (171.67.215.200)  145.724 ms  145.609 ms  146.113 ms
+
+Command executed successfully
+Output: 12 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.162 (10.68.132.162)  0.843 ms  0.821 ms  0.801 ms
+ 3  138.197.249.58 (138.197.249.58)  0.952 ms  0.931 ms 138.197.249.50 (138.197.249.50)  2.065 ms
+ 4  138.197.250.149 (138.197.250.149)  0.355 ms 138.197.250.143 (138.197.250.143)  0.385 ms 138.197.250.141 (138.197.250.141)  0.412 ms
+ 5  * 138.197.250.188 (138.197.250.188)  0.468 ms *
+ 6  * * *
+ 7  * * *
+ 8  * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  134.379 ms *
+ 9  * * *
+10  * * *
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.745 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  147.757 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  154.160 ms
+12  * * *
+13  * * *
+14  web.stanford.edu (171.67.215.200)  146.251 ms  145.779 ms  145.673 ms
+
+Command executed successfully
+Output: 13 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.172 (10.68.132.172)  0.458 ms 10.68.132.170 (10.68.132.170)  0.477 ms 10.68.132.164 (10.68.132.164)  0.448 ms
+ 3  138.197.249.56 (138.197.249.56)  1.031 ms 138.197.249.60 (138.197.249.60)  1.006 ms 138.197.249.62 (138.197.249.62)  0.980 ms
+ 4  138.197.250.143 (138.197.250.143)  13.755 ms  0.312 ms 138.197.250.157 (138.197.250.157)  0.310 ms
+ 5  138.197.250.188 (138.197.250.188)  0.481 ms  0.406 ms *
+ 6  hurricane-ic-360371.ip.twelve99-cust.net (62.115.175.190)  13.067 ms * *
+ 7  * * *
+ 8  * * *
+ 9  * hurricane-ic-366923.ip.twelve99-cust.net (195.12.255.210)  148.102 ms *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  152.130 ms  152.111 ms  152.083 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  152.061 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  152.040 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  151.986 ms
+12  * woa-west-rtr-vl3.SUNet (171.66.255.132)  151.942 ms  150.221 ms
+13  web.stanford.edu (171.67.215.200)  150.167 ms *  150.103 ms
+
+Command executed successfully
+Output: 14 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.164 (10.68.132.164)  0.434 ms 10.68.132.170 (10.68.132.170)  0.432 ms 10.68.132.168 (10.68.132.168)  0.894 ms
+ 3  138.197.249.56 (138.197.249.56)  1.187 ms 138.197.249.50 (138.197.249.50)  1.125 ms 138.197.249.62 (138.197.249.62)  0.811 ms
+ 4  138.197.250.157 (138.197.250.157)  0.784 ms 138.197.250.139 (138.197.250.139)  0.751 ms 138.197.250.143 (138.197.250.143)  0.724 ms
+ 5  138.197.250.188 (138.197.250.188)  0.695 ms * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.893 ms  148.708 ms *
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.836 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  147.847 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.925 ms
+12  woa-west-rtr-vl2.SUNet (171.64.255.132)  148.196 ms  147.822 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  148.242 ms
+13  * * web.stanford.edu (171.67.215.200)  146.093 ms
+
+Command executed successfully
+Output: 15 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.176 (10.68.132.176)  0.511 ms  0.489 ms 10.68.132.168 (10.68.132.168)  0.423 ms
+ 3  138.197.249.48 (138.197.249.48)  0.721 ms 138.197.249.52 (138.197.249.52)  0.795 ms 138.197.249.62 (138.197.249.62)  7.758 ms
+ 4  138.197.250.141 (138.197.250.141)  0.853 ms 138.197.250.139 (138.197.250.139)  0.395 ms 138.197.250.137 (138.197.250.137)  0.810 ms
+ 5  * * *
+ 6  * * hurricane-ic-360371.ip.twelve99-cust.net (62.115.175.190)  21.141 ms
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.784 ms hurricane-ic-366923.ip.twelve99-cust.net (195.12.255.210)  146.352 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.819 ms  148.675 ms  148.766 ms
+12  woa-west-rtr-vl2.SUNet (171.64.255.132)  147.890 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.715 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  148.049 ms
+13  web.stanford.edu (171.67.215.200)  146.268 ms * *
+
+Command executed successfully
+Output: 16 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.168 (10.68.132.168)  0.524 ms 10.68.132.162 (10.68.132.162)  0.513 ms  0.485 ms
+ 3  138.197.249.56 (138.197.249.56)  0.735 ms 138.197.249.54 (138.197.249.54)  1.028 ms 138.197.249.60 (138.197.249.60)  1.001 ms
+ 4  138.197.250.135 (138.197.250.135)  0.675 ms  0.651 ms 138.197.250.157 (138.197.250.157)  0.421 ms
+ 5  138.197.250.188 (138.197.250.188)  0.591 ms *  0.558 ms
+ 6  * * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  80.320 ms * *
+ 8  * * *
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.740 ms * hurricane-ic-366923.ip.twelve99-cust.net (195.12.255.210)  146.175 ms
+11  woa-west-rtr-vl2.SUNet (171.64.255.132)  147.856 ms  148.031 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.619 ms
+12  * * woa-west-rtr-vl3.SUNet (171.66.255.132)  148.046 ms
+13  web.stanford.edu (171.67.215.200)  145.568 ms *  145.635 ms
+
+Command executed successfully
+Output: 17 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.176 (10.68.132.176)  0.668 ms 10.68.132.174 (10.68.132.174)  0.591 ms 10.68.132.172 (10.68.132.172)  0.672 ms
+ 3  138.197.249.62 (138.197.249.62)  0.872 ms 138.197.249.48 (138.197.249.48)  0.788 ms 138.197.249.52 (138.197.249.52)  0.871 ms
+ 4  138.197.250.139 (138.197.250.139)  0.600 ms 138.197.250.143 (138.197.250.143)  0.376 ms 138.197.250.149 (138.197.250.149)  2.893 ms
+ 5  * 138.197.250.188 (138.197.250.188)  1.461 ms *
+ 6  * * *
+ 7  * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  87.682 ms *
+ 8  * * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  87.424 ms
+ 9  hurricane-ic-370684.ip.twelve99-cust.net (213.248.104.142)  149.786 ms * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.949 ms  148.924 ms *
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.879 ms  148.810 ms  148.782 ms
+12  woa-west-rtr-vl2.SUNet (171.64.255.132)  147.615 ms * *
+13  web.stanford.edu (171.67.215.200)  145.943 ms  146.018 ms *
+
+Command executed successfully
+Output: 18 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.166 (10.68.132.166)  0.475 ms 10.68.132.162 (10.68.132.162)  0.435 ms 10.68.132.166 (10.68.132.166)  0.409 ms
+ 3  138.197.249.52 (138.197.249.52)  0.936 ms *  1.258 ms
+ 4  138.197.250.157 (138.197.250.157)  2.699 ms 138.197.250.139 (138.197.250.139)  0.667 ms 138.197.250.157 (138.197.250.157)  2.519 ms
+ 5  * * 138.197.250.188 (138.197.250.188)  0.596 ms
+ 6  * * *
+ 7  * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  114.463 ms *
+ 8  hurricane-ic-370684.ip.twelve99-cust.net (213.248.104.142)  150.743 ms * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  109.576 ms
+ 9  * * *
+10  * * *
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.776 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  148.955 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.745 ms
+12  woa-west-rtr-vl2.SUNet (171.64.255.132)  147.815 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.855 ms *
+13  * * web.stanford.edu (171.67.215.200)  146.487 ms
+
+Command executed successfully
+Output: 19 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.170 (10.68.132.170)  0.493 ms 10.68.132.164 (10.68.132.164)  0.460 ms 10.68.132.168 (10.68.132.168)  0.635 ms
+ 3  138.197.249.56 (138.197.249.56)  0.870 ms 138.197.249.62 (138.197.249.62)  0.849 ms 138.197.249.56 (138.197.249.56)  0.829 ms
+ 4  138.197.250.149 (138.197.250.149)  0.467 ms 138.197.250.141 (138.197.250.141)  0.432 ms 138.197.250.149 (138.197.250.149)  0.402 ms
+ 5  * 138.197.250.188 (138.197.250.188)  0.397 ms  0.366 ms
+ 6  * * *
+ 7  * * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  100.186 ms
+ 8  * * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  100.888 ms
+ 9  * * *
+10  * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  172.360 ms  172.335 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  172.315 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  153.290 ms  153.239 ms
+12  * * *
+13  web.stanford.edu (171.67.215.200)  146.035 ms  153.017 ms  152.987 ms
+
+Command executed successfully
+Output: 20 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.162 (10.68.132.162)  0.556 ms 10.68.132.172 (10.68.132.172)  0.575 ms 10.68.132.170 (10.68.132.170)  0.413 ms
+ 3  138.197.249.52 (138.197.249.52)  0.768 ms 138.197.249.54 (138.197.249.54)  0.741 ms 138.197.249.56 (138.197.249.56)  1.529 ms
+ 4  138.197.250.137 (138.197.250.137)  0.341 ms 138.197.250.157 (138.197.250.157)  0.350 ms 138.197.250.149 (138.197.250.149)  0.364 ms
+ 5  * 138.197.250.188 (138.197.250.188)  0.599 ms *
+ 6  * * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  90.901 ms *  89.360 ms
+ 8  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  90.955 ms  91.172 ms *
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.833 ms hurricane-ic-366923.ip.twelve99-cust.net (195.12.255.210)  146.404 ms *
+11  woa-west-rtr-vl2.SUNet (171.64.255.132)  147.957 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.654 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  148.483 ms
+12  * * *
+13  * web.stanford.edu (171.67.215.200)  145.880 ms  145.853 ms
+
+Command executed successfully
+Output: 21 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.176 (10.68.132.176)  1.033 ms 10.68.132.166 (10.68.132.166)  0.812 ms 10.68.132.174 (10.68.132.174)  0.666 ms
+ 3  138.197.249.60 (138.197.249.60)  0.942 ms  0.916 ms 138.197.249.58 (138.197.249.58)  0.886 ms
+ 4  138.197.250.137 (138.197.250.137)  3.018 ms 138.197.250.153 (138.197.250.153)  0.522 ms 138.197.250.157 (138.197.250.157)  2.954 ms
+ 5  138.197.250.188 (138.197.250.188)  1.034 ms * *
+ 6  * * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  109.398 ms  111.275 ms *
+ 8  * * *
+ 9  * * *
+10  * * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.791 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.762 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.544 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.809 ms
+12  * woa-west-rtr-vl2.SUNet (171.64.255.132)  148.254 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  152.920 ms
+13  * * web.stanford.edu (171.67.215.200)  145.995 ms
+
+Command executed successfully
+Output: 22 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.168 (10.68.132.168)  1.266 ms 10.68.132.164 (10.68.132.164)  0.750 ms 10.68.132.170 (10.68.132.170)  0.554 ms
+ 3  138.197.249.48 (138.197.249.48)  9.389 ms 138.197.249.60 (138.197.249.60)  2.280 ms  2.260 ms
+ 4  138.197.250.141 (138.197.250.141)  0.652 ms 138.197.250.153 (138.197.250.153)  0.456 ms 138.197.250.137 (138.197.250.137)  0.431 ms
+ 5  * * 138.197.250.188 (138.197.250.188)  0.533 ms
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.832 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.788 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  147.801 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.780 ms
+12  * woa-west-rtr-vl2.SUNet (171.64.255.132)  148.804 ms *
+13  * web.stanford.edu (171.67.215.200)  147.456 ms *
+
+Command executed successfully
+Output: 23 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.170 (10.68.132.170)  3.562 ms 10.68.132.174 (10.68.132.174)  0.596 ms 10.68.132.162 (10.68.132.162)  0.568 ms
+ 3  138.197.249.62 (138.197.249.62)  0.994 ms 138.197.249.54 (138.197.249.54)  0.786 ms 138.197.249.58 (138.197.249.58)  0.799 ms
+ 4  138.197.250.141 (138.197.250.141)  0.445 ms 138.197.250.153 (138.197.250.153)  0.415 ms 138.197.250.157 (138.197.250.157)  0.419 ms
+ 5  138.197.250.188 (138.197.250.188)  0.515 ms  0.685 ms  0.783 ms
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  hurricane-ic-366923.ip.twelve99-cust.net (195.12.255.210)  146.492 ms * *
+10  * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.911 ms *
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.822 ms  148.765 ms  148.867 ms
+12  * woa-west-rtr-vl3.SUNet (171.66.255.132)  148.100 ms  147.753 ms
+13  * * *
+14  web.stanford.edu (171.67.215.200)  145.554 ms  145.679 ms  148.290 ms
+
+Command executed successfully
+Output: 24 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.168 (10.68.132.168)  0.579 ms 10.68.132.162 (10.68.132.162)  0.550 ms  0.443 ms
+ 3  138.197.249.52 (138.197.249.52)  0.876 ms  0.844 ms  1.090 ms
+ 4  138.197.250.143 (138.197.250.143)  0.364 ms 138.197.250.137 (138.197.250.137)  0.555 ms 138.197.250.149 (138.197.250.149)  0.305 ms
+ 5  138.197.250.188 (138.197.250.188)  0.477 ms * *
+ 6  * * *
+ 7  * * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  85.075 ms
+ 8  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  85.564 ms  85.736 ms *
+ 9  * * *
+10  hurricane-ic-366923.ip.twelve99-cust.net (195.12.255.210)  146.214 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.730 ms  148.694 ms
+11  woa-west-rtr-vl2.SUNet (171.64.255.132)  147.702 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.788 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.744 ms
+12  woa-west-rtr-vl2.SUNet (171.64.255.132)  147.978 ms * *
+13  * * web.stanford.edu (171.67.215.200)  146.588 ms
+
+Command executed successfully
+Output: 25 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.172 (10.68.132.172)  0.430 ms 10.68.132.166 (10.68.132.166)  0.364 ms 10.68.132.168 (10.68.132.168)  0.406 ms
+ 3  138.197.249.54 (138.197.249.54)  0.818 ms 138.197.249.52 (138.197.249.52)  0.793 ms 138.197.249.60 (138.197.249.60)  3.650 ms
+ 4  138.197.250.157 (138.197.250.157)  5.605 ms 138.197.250.141 (138.197.250.141)  0.552 ms 138.197.250.139 (138.197.250.139)  0.287 ms
+ 5  138.197.250.188 (138.197.250.188)  0.472 ms *  0.386 ms
+ 6  * * *
+ 7  * * *
+ 8  * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  88.783 ms *
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.873 ms  148.814 ms  148.781 ms
+11  woa-west-rtr-vl2.SUNet (171.64.255.132)  147.853 ms  147.971 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.823 ms
+12  * woa-west-rtr-vl2.SUNet (171.64.255.132)  147.848 ms *
+13  * * web.stanford.edu (171.67.215.200)  146.153 ms
+
+Command executed successfully
+Output: 26 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.166 (10.68.132.166)  2.805 ms 10.68.132.172 (10.68.132.172)  0.367 ms 10.68.132.168 (10.68.132.168)  0.451 ms
+ 3  138.197.249.54 (138.197.249.54)  0.810 ms 138.197.249.52 (138.197.249.52)  0.781 ms 138.197.249.62 (138.197.249.62)  0.803 ms
+ 4  138.197.250.137 (138.197.250.137)  0.549 ms 138.197.250.139 (138.197.250.139)  0.389 ms 138.197.250.157 (138.197.250.157)  0.362 ms
+ 5  138.197.250.188 (138.197.250.188)  0.428 ms *  0.372 ms
+ 6  * * *
+ 7  * * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  129.797 ms
+ 8  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  129.845 ms *  129.925 ms
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.950 ms *  148.880 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.846 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.610 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.582 ms
+12  * woa-west-rtr-vl3.SUNet (171.66.255.132)  148.278 ms *
+13  web.stanford.edu (171.67.215.200)  146.200 ms *  146.223 ms
+
+Command executed successfully
+Output: 27 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.174 (10.68.132.174)  0.399 ms 10.68.132.170 (10.68.132.170)  0.579 ms 10.68.132.168 (10.68.132.168)  0.438 ms
+ 3  138.197.249.58 (138.197.249.58)  1.054 ms 138.197.249.50 (138.197.249.50)  1.140 ms 138.197.249.52 (138.197.249.52)  0.732 ms
+ 4  138.197.250.143 (138.197.250.143)  0.352 ms 138.197.250.139 (138.197.250.139)  0.430 ms 138.197.250.135 (138.197.250.135)  0.406 ms
+ 5  138.197.250.188 (138.197.250.188)  0.378 ms  0.382 ms  0.381 ms
+ 6  * * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  91.964 ms * *
+ 8  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  92.159 ms * *
+ 9  * * *
+10  * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  150.123 ms  150.085 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  150.061 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.786 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.718 ms
+12  woa-west-rtr-vl3.SUNet (171.66.255.132)  147.695 ms * *
+13  web.stanford.edu (171.67.215.200)  147.166 ms *  147.136 ms
+
+Command executed successfully
+Output: 28 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.168 (10.68.132.168)  12.194 ms 10.68.132.164 (10.68.132.164)  0.671 ms 10.68.132.176 (10.68.132.176)  0.610 ms
+ 3  138.197.249.60 (138.197.249.60)  3.982 ms  3.967 ms  3.953 ms
+ 4  138.197.250.139 (138.197.250.139)  0.502 ms 138.197.250.143 (138.197.250.143)  0.524 ms  0.510 ms
+ 5  138.197.250.188 (138.197.250.188)  0.851 ms  2.603 ms *
+ 6  * hurricane-ic-360371.ip.twelve99-cust.net (62.115.175.190)  13.205 ms *
+ 7  * * *
+ 8  hurricane-ic-370684.ip.twelve99-cust.net (213.248.104.142)  146.692 ms * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  80.235 ms
+ 9  * * *
+10  * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.792 ms  148.822 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.748 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  148.454 ms  148.422 ms
+12  woa-west-rtr-vl2.SUNet (171.64.255.132)  148.393 ms * *
+13  * * *
+14  web.stanford.edu (171.67.215.200)  146.222 ms  145.713 ms  145.570 ms
+
+Command executed successfully
+Output: 29 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.164 (10.68.132.164)  0.429 ms 10.68.132.166 (10.68.132.166)  0.728 ms 10.68.132.164 (10.68.132.164)  0.367 ms
+ 3  138.197.249.60 (138.197.249.60)  0.911 ms 138.197.249.62 (138.197.249.62)  1.247 ms  0.844 ms
+ 4  138.197.250.149 (138.197.250.149)  0.501 ms 138.197.250.137 (138.197.250.137)  0.631 ms 138.197.250.153 (138.197.250.153)  2.046 ms
+ 5  * 138.197.250.188 (138.197.250.188)  0.755 ms  0.766 ms
+ 6  * * *
+ 7  * * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  84.767 ms
+ 8  * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  84.794 ms *
+ 9  * * *
+10  hurricane-ic-366923.ip.twelve99-cust.net (195.12.255.210)  146.609 ms * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  183.721 ms
+11  woa-west-rtr-vl2.SUNet (171.64.255.132)  147.892 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.990 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  147.877 ms
+12  * * woa-west-rtr-vl3.SUNet (171.66.255.132)  148.496 ms
+13  web.stanford.edu (171.67.215.200)  146.043 ms *  145.981 ms
+
+Command executed successfully
+Output: 30 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.166 (10.68.132.166)  15.802 ms 10.68.132.164 (10.68.132.164)  0.803 ms 10.68.132.176 (10.68.132.176)  1.396 ms
+ 3  138.197.249.56 (138.197.249.56)  0.854 ms 138.197.249.62 (138.197.249.62)  0.781 ms 138.197.249.56 (138.197.249.56)  1.300 ms
+ 4  138.197.250.157 (138.197.250.157)  0.583 ms 138.197.250.141 (138.197.250.141)  0.552 ms 138.197.250.135 (138.197.250.135)  0.524 ms
+ 5  * 138.197.250.188 (138.197.250.188)  0.467 ms *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * hurricane-ic-370684.ip.twelve99-cust.net (213.248.104.142)  146.609 ms
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  149.050 ms  149.020 ms  148.993 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.962 ms  148.822 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  147.883 ms
+12  woa-west-rtr-vl3.SUNet (171.66.255.132)  147.874 ms * *
+13  * web.stanford.edu (171.67.215.200)  145.967 ms *
+
+Command executed successfully
+Output: 31 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.166 (10.68.132.166)  0.383 ms 10.68.132.162 (10.68.132.162)  0.926 ms 10.68.132.172 (10.68.132.172)  4.038 ms
+ 3  138.197.249.58 (138.197.249.58)  4.201 ms 138.197.249.54 (138.197.249.54)  0.720 ms 138.197.249.56 (138.197.249.56)  4.143 ms
+ 4  138.197.250.143 (138.197.250.143)  0.401 ms 138.197.250.137 (138.197.250.137)  0.356 ms 138.197.250.157 (138.197.250.157)  0.407 ms
+ 5  138.197.250.188 (138.197.250.188)  0.757 ms *  2.374 ms
+ 6  * * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  80.214 ms * *
+ 8  * * *
+ 9  * * *
+10  * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  150.137 ms  150.113 ms
+11  woa-west-rtr-vl3.SUNet (171.66.255.132)  147.614 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  147.821 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.720 ms
+12  * woa-west-rtr-vl3.SUNet (171.66.255.132)  147.618 ms *
+13  web.stanford.edu (171.67.215.200)  145.891 ms * *
+
+Command executed successfully
+Output: 32 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.166 (10.68.132.166)  0.542 ms 10.68.132.170 (10.68.132.170)  0.434 ms 10.68.132.164 (10.68.132.164)  0.474 ms
+ 3  138.197.249.52 (138.197.249.52)  0.797 ms 138.197.249.60 (138.197.249.60)  0.981 ms 138.197.249.50 (138.197.249.50)  5.544 ms
+ 4  138.197.250.157 (138.197.250.157)  0.306 ms 138.197.250.143 (138.197.250.143)  0.301 ms 138.197.250.157 (138.197.250.157)  0.270 ms
+ 5  * 138.197.250.188 (138.197.250.188)  0.494 ms *
+ 6  * * port-channel1.core3.fra1.he.net (184.104.198.26)  4.904 ms
+ 7  * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  104.475 ms *
+ 8  * * *
+ 9  * * *
+10  * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.759 ms  148.818 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.787 ms  148.767 ms  149.550 ms
+12  * * woa-west-rtr-vl2.SUNet (171.64.255.132)  147.823 ms
+13  * web.stanford.edu (171.67.215.200)  145.743 ms  145.823 ms
+
+Command executed successfully
+Output: 33 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.162 (10.68.132.162)  0.795 ms 10.68.132.174 (10.68.132.174)  0.871 ms 10.68.132.162 (10.68.132.162)  0.757 ms
+ 3  138.197.249.60 (138.197.249.60)  0.944 ms 138.197.249.56 (138.197.249.56)  1.047 ms 138.197.249.62 (138.197.249.62)  1.458 ms
+ 4  138.197.250.141 (138.197.250.141)  0.694 ms 138.197.250.143 (138.197.250.143)  0.678 ms 138.197.250.141 (138.197.250.141)  0.659 ms
+ 5  * * 138.197.250.188 (138.197.250.188)  0.767 ms
+ 6  * * *
+ 7  * * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  85.410 ms
+ 8  * * *
+ 9  * * *
+10  * * *
+11  woa-west-rtr-vl3.SUNet (171.66.255.132)  147.925 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  147.930 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  149.209 ms
+12  woa-west-rtr-vl3.SUNet (171.66.255.132)  147.713 ms  147.654 ms *
+13  * web.stanford.edu (171.67.215.200)  145.857 ms *
+
+Command executed successfully
+Output: 34 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.174 (10.68.132.174)  0.754 ms 10.68.132.162 (10.68.132.162)  0.735 ms 10.68.132.174 (10.68.132.174)  0.719 ms
+ 3  138.197.249.50 (138.197.249.50)  1.056 ms 138.197.249.54 (138.197.249.54)  1.058 ms 138.197.249.60 (138.197.249.60)  1.375 ms
+ 4  138.197.250.143 (138.197.250.143)  0.660 ms 138.197.250.153 (138.197.250.153)  0.693 ms 138.197.250.149 (138.197.250.149)  0.679 ms
+ 5  138.197.250.188 (138.197.250.188)  0.728 ms  0.863 ms *
+ 6  * * port-channel1.core3.fra1.he.net (184.104.198.26)  91.010 ms
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  127.128 ms * *
+ 8  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  127.392 ms * *
+ 9  * * *
+10  * * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  155.622 ms
+11  woa-west-rtr-vl2.SUNet (171.64.255.132)  147.867 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.580 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  147.896 ms
+12  woa-west-rtr-vl2.SUNet (171.64.255.132)  147.738 ms  147.719 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.495 ms
+13  web.stanford.edu (171.67.215.200)  146.033 ms * *
+
+Command executed successfully
+Output: 35 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.168 (10.68.132.168)  0.512 ms 10.68.132.176 (10.68.132.176)  0.402 ms 10.68.132.166 (10.68.132.166)  0.501 ms
+ 3  138.197.249.58 (138.197.249.58)  0.809 ms 138.197.249.56 (138.197.249.56)  0.808 ms 138.197.249.50 (138.197.249.50)  0.720 ms
+ 4  138.197.250.135 (138.197.250.135)  1.081 ms 138.197.250.137 (138.197.250.137)  0.487 ms 138.197.250.157 (138.197.250.157)  0.469 ms
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * hurricane-ic-366923.ip.twelve99-cust.net (195.12.255.210)  161.973 ms *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  159.358 ms  148.798 ms  149.051 ms
+11  woa-west-rtr-vl3.SUNet (171.66.255.132)  147.612 ms  147.702 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  148.026 ms
+12  woa-west-rtr-vl2.SUNet (171.64.255.132)  147.655 ms * *
+13  web.stanford.edu (171.67.215.200)  145.279 ms  146.161 ms *
+
+Command executed successfully
+Output: 36 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.176 (10.68.132.176)  0.593 ms 10.68.132.174 (10.68.132.174)  0.620 ms 10.68.132.162 (10.68.132.162)  0.549 ms
+ 3  138.197.249.62 (138.197.249.62)  1.148 ms 138.197.249.50 (138.197.249.50)  1.110 ms 138.197.249.54 (138.197.249.54)  1.157 ms
+ 4  138.197.250.135 (138.197.250.135)  0.738 ms 138.197.250.143 (138.197.250.143)  0.642 ms 138.197.250.153 (138.197.250.153)  0.776 ms
+ 5  * 138.197.250.188 (138.197.250.188)  0.744 ms  0.673 ms
+ 6  * * *
+ 7  * * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  81.160 ms
+ 8  * * *
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.846 ms  148.764 ms  148.739 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.722 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.712 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.912 ms
+12  woa-west-rtr-vl2.SUNet (171.64.255.132)  147.756 ms  147.807 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.765 ms
+13  * * web.stanford.edu (171.67.215.200)  146.109 ms
+
+Command executed successfully
+Output: 37 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.164 (10.68.132.164)  0.643 ms 10.68.132.166 (10.68.132.166)  1.691 ms  1.671 ms
+ 3  138.197.249.54 (138.197.249.54)  0.977 ms 138.197.249.48 (138.197.249.48)  1.074 ms 138.197.249.62 (138.197.249.62)  11.629 ms
+ 4  138.197.250.137 (138.197.250.137)  0.810 ms 138.197.250.157 (138.197.250.157)  0.500 ms 138.197.250.139 (138.197.250.139)  0.624 ms
+ 5  * 138.197.250.188 (138.197.250.188)  0.390 ms *
+ 6  * * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  80.036 ms  81.390 ms *
+ 8  * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  81.643 ms *
+ 9  hurricane-ic-366923.ip.twelve99-cust.net (195.12.255.210)  146.387 ms * *
+10  * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.912 ms  148.882 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.854 ms  148.778 ms  148.750 ms
+12  * * *
+13  * * web.stanford.edu (171.67.215.200)  145.512 ms
+
+Command executed successfully
+Output: 38 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.168 (10.68.132.168)  1.070 ms  1.051 ms 10.68.132.172 (10.68.132.172)  0.816 ms
+ 3  138.197.249.56 (138.197.249.56)  1.176 ms 138.197.249.50 (138.197.249.50)  1.155 ms  1.134 ms
+ 4  138.197.250.137 (138.197.250.137)  0.732 ms 138.197.250.153 (138.197.250.153)  1.167 ms 138.197.250.143 (138.197.250.143)  1.119 ms
+ 5  * * *
+ 6  hurricane-ic-360371.ip.twelve99-cust.net (62.115.175.190)  273.240 ms * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  88.963 ms * *
+ 8  * * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  89.039 ms
+ 9  * * *
+10  hurricane-ic-366923.ip.twelve99-cust.net (195.12.255.210)  148.959 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.890 ms  148.858 ms
+11  woa-west-rtr-vl2.SUNet (171.64.255.132)  148.229 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.797 ms  148.767 ms
+12  * * woa-west-rtr-vl2.SUNet (171.64.255.132)  148.074 ms
+13  * web.stanford.edu (171.67.215.200)  145.600 ms  145.583 ms
+
+Command executed successfully
+Output: 39 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.172 (10.68.132.172)  1.349 ms 10.68.132.174 (10.68.132.174)  0.497 ms 10.68.132.176 (10.68.132.176)  0.574 ms
+ 3  138.197.249.56 (138.197.249.56)  5.465 ms 138.197.249.50 (138.197.249.50)  7.362 ms  7.333 ms
+ 4  138.197.250.139 (138.197.250.139)  4.514 ms 138.197.250.157 (138.197.250.157)  0.704 ms 138.197.250.141 (138.197.250.141)  0.688 ms
+ 5  * 138.197.250.188 (138.197.250.188)  1.909 ms *
+ 6  * * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  82.665 ms * *
+ 8  * * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  80.188 ms
+ 9  * * hurricane-ic-366923.ip.twelve99-cust.net (195.12.255.210)  146.490 ms
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.835 ms *  148.767 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.736 ms  148.988 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.658 ms
+12  woa-west-rtr-vl2.SUNet (171.64.255.132)  147.793 ms *  148.439 ms
+13  * * *
+14  web.stanford.edu (171.67.215.200)  145.969 ms  146.197 ms  145.783 ms
+
+Command executed successfully
+Output: 40 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.172 (10.68.132.172)  0.791 ms 10.68.132.162 (10.68.132.162)  0.369 ms 10.68.132.172 (10.68.132.172)  0.738 ms
+ 3  138.197.249.48 (138.197.249.48)  0.741 ms 138.197.249.56 (138.197.249.56)  0.757 ms 138.197.249.62 (138.197.249.62)  0.780 ms
+ 4  138.197.250.137 (138.197.250.137)  1.455 ms 138.197.250.141 (138.197.250.141)  0.588 ms 138.197.250.143 (138.197.250.143)  1.537 ms
+ 5  * * 138.197.250.188 (138.197.250.188)  0.544 ms
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * hurricane-ic-370684.ip.twelve99-cust.net (213.248.104.142)  146.713 ms
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  150.543 ms *  150.495 ms
+11  woa-west-rtr-vl3.SUNet (171.66.255.132)  147.595 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  153.050 ms  152.115 ms
+12  * woa-west-rtr-vl2.SUNet (171.64.255.132)  147.908 ms *
+13  web.stanford.edu (171.67.215.200)  146.715 ms * *
+
+Command executed successfully
+Output: 41 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.176 (10.68.132.176)  0.359 ms 10.68.132.166 (10.68.132.166)  0.540 ms 10.68.132.162 (10.68.132.162)  0.475 ms
+ 3  138.197.249.60 (138.197.249.60)  0.903 ms 138.197.249.52 (138.197.249.52)  0.759 ms 138.197.249.58 (138.197.249.58)  0.839 ms
+ 4  138.197.250.139 (138.197.250.139)  0.412 ms 138.197.250.141 (138.197.250.141)  0.347 ms 138.197.250.137 (138.197.250.137)  0.631 ms
+ 5  * 138.197.250.188 (138.197.250.188)  0.408 ms *
+ 6  * * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  86.760 ms * *
+ 8  * * *
+ 9  * * hurricane-ic-370684.ip.twelve99-cust.net (213.248.104.142)  146.608 ms
+10  hurricane-ic-366923.ip.twelve99-cust.net (195.12.255.210)  174.086 ms * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  149.144 ms
+11  woa-west-rtr-vl2.SUNet (171.64.255.132)  148.048 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  152.091 ms  148.816 ms
+12  * woa-west-rtr-vl3.SUNet (171.66.255.132)  148.136 ms  147.664 ms
+13  * web.stanford.edu (171.67.215.200)  145.953 ms *
+
+Command executed successfully
+Output: 42 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.172 (10.68.132.172)  0.546 ms 10.68.132.164 (10.68.132.164)  0.457 ms 10.68.132.166 (10.68.132.166)  0.265 ms
+ 3  138.197.249.50 (138.197.249.50)  0.702 ms 138.197.249.60 (138.197.249.60)  0.883 ms 138.197.249.54 (138.197.249.54)  0.733 ms
+ 4  138.197.250.137 (138.197.250.137)  0.686 ms 138.197.250.141 (138.197.250.141)  0.659 ms 138.197.250.153 (138.197.250.153)  0.288 ms
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  149.121 ms  148.862 ms  148.867 ms
+11  woa-west-rtr-vl2.SUNet (171.64.255.132)  148.107 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.573 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.998 ms
+12  woa-west-rtr-vl2.SUNet (171.64.255.132)  148.651 ms  147.873 ms *
+13  * web.stanford.edu (171.67.215.200)  145.665 ms *
+
+Command executed successfully
+Output: 43 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.162 (10.68.132.162)  0.381 ms 10.68.132.166 (10.68.132.166)  0.478 ms 10.68.132.172 (10.68.132.172)  0.420 ms
+ 3  138.197.249.54 (138.197.249.54)  0.946 ms 138.197.249.50 (138.197.249.50)  0.917 ms  1.116 ms
+ 4  138.197.250.149 (138.197.250.149)  0.976 ms 138.197.250.137 (138.197.250.137)  0.423 ms 138.197.250.157 (138.197.250.157)  0.885 ms
+ 5  * * 138.197.250.188 (138.197.250.188)  0.567 ms
+ 6  * * *
+ 7  * * *
+ 8  hurricane-ic-370684.ip.twelve99-cust.net (213.248.104.142)  146.573 ms hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  134.462 ms  134.696 ms
+ 9  hurricane-ic-370684.ip.twelve99-cust.net (213.248.104.142)  146.463 ms * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.907 ms  148.881 ms *
+11  woa-west-rtr-vl2.SUNet (171.64.255.132)  147.857 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  148.045 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  150.758 ms
+12  woa-west-rtr-vl2.SUNet (171.64.255.132)  147.881 ms  147.783 ms  148.464 ms
+13  web.stanford.edu (171.67.215.200)  145.854 ms * *
+
+Command executed successfully
+Output: 44 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.166 (10.68.132.166)  0.544 ms 10.68.132.168 (10.68.132.168)  0.472 ms 10.68.132.176 (10.68.132.176)  1.482 ms
+ 3  138.197.249.54 (138.197.249.54)  0.696 ms 138.197.249.60 (138.197.249.60)  4.518 ms 138.197.249.50 (138.197.249.50)  0.833 ms
+ 4  138.197.250.141 (138.197.250.141)  0.399 ms 138.197.250.143 (138.197.250.143)  0.345 ms  0.312 ms
+ 5  port-channel1.core3.fra1.he.net (184.104.198.26)  4.217 ms 138.197.250.188 (138.197.250.188)  0.480 ms *
+ 6  * * *
+ 7  * * *
+ 8  * hurricane-ic-370684.ip.twelve99-cust.net (213.248.104.142)  146.359 ms *
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.837 ms * *
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.876 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.701 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.774 ms
+12  * * *
+13  * * web.stanford.edu (171.67.215.200)  146.037 ms
+
+Command executed successfully
+Output: 45 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.166 (10.68.132.166)  0.316 ms 10.68.132.174 (10.68.132.174)  2.272 ms 10.68.132.168 (10.68.132.168)  0.444 ms
+ 3  138.197.249.56 (138.197.249.56)  0.865 ms 138.197.249.50 (138.197.249.50)  0.836 ms 138.197.249.56 (138.197.249.56)  0.804 ms
+ 4  138.197.250.141 (138.197.250.141)  0.343 ms 138.197.250.149 (138.197.250.149)  0.464 ms 138.197.250.139 (138.197.250.139)  0.281 ms
+ 5  * 138.197.250.188 (138.197.250.188)  0.483 ms *
+ 6  * * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  80.123 ms * *
+ 8  * * *
+ 9  * * hurricane-ic-366923.ip.twelve99-cust.net (195.12.255.210)  146.495 ms
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  150.456 ms  150.434 ms *
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  150.393 ms  148.880 ms  148.943 ms
+12  woa-west-rtr-vl3.SUNet (171.66.255.132)  147.582 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  148.207 ms  148.249 ms
+13  web.stanford.edu (171.67.215.200)  145.906 ms * *
+
+Command executed successfully
+Output: 46 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.168 (10.68.132.168)  1.641 ms 10.68.132.164 (10.68.132.164)  0.537 ms 10.68.132.162 (10.68.132.162)  0.435 ms
+ 3  138.197.249.50 (138.197.249.50)  0.761 ms 138.197.249.56 (138.197.249.56)  0.708 ms 138.197.249.50 (138.197.249.50)  0.702 ms
+ 4  138.197.250.143 (138.197.250.143)  0.297 ms 138.197.250.139 (138.197.250.139)  0.314 ms 138.197.250.137 (138.197.250.137)  0.297 ms
+ 5  * 138.197.250.188 (138.197.250.188)  0.394 ms *
+ 6  * * *
+ 7  * * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  109.926 ms
+ 8  hurricane-ic-370684.ip.twelve99-cust.net (213.248.104.142)  148.578 ms * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  109.924 ms
+ 9  * * hurricane-ic-370684.ip.twelve99-cust.net (213.248.104.142)  146.989 ms
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.856 ms  148.825 ms *
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.761 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.684 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  148.475 ms
+12  woa-west-rtr-vl2.SUNet (171.64.255.132)  147.731 ms  148.203 ms *
+13  * * *
+14  web.stanford.edu (171.67.215.200)  145.981 ms  145.936 ms  145.798 ms
+
+Command executed successfully
+Output: 47 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.166 (10.68.132.166)  0.690 ms 10.68.132.172 (10.68.132.172)  0.663 ms  0.636 ms
+ 3  138.197.249.52 (138.197.249.52)  0.848 ms 138.197.249.50 (138.197.249.50)  1.334 ms 138.197.249.52 (138.197.249.52)  1.188 ms
+ 4  138.197.250.153 (138.197.250.153)  0.863 ms  0.877 ms 138.197.250.157 (138.197.250.157)  0.700 ms
+ 5  * * 138.197.250.188 (138.197.250.188)  0.805 ms
+ 6  * * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  141.697 ms * *
+ 8  * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  141.870 ms *
+ 9  * * *
+10  * * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.826 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.801 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  147.784 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.736 ms
+12  * woa-west-rtr-vl3.SUNet (171.66.255.132)  147.632 ms *
+13  web.stanford.edu (171.67.215.200)  146.193 ms  145.296 ms  146.076 ms
+
+Command executed successfully
+Output: 48 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.166 (10.68.132.166)  0.562 ms 10.68.132.162 (10.68.132.162)  0.533 ms 10.68.132.170 (10.68.132.170)  0.504 ms
+ 3  138.197.249.50 (138.197.249.50)  0.895 ms  1.110 ms 138.197.249.62 (138.197.249.62)  1.020 ms
+ 4  138.197.250.153 (138.197.250.153)  0.322 ms 138.197.250.141 (138.197.250.141)  0.291 ms 138.197.250.153 (138.197.250.153)  0.336 ms
+ 5  * 138.197.250.188 (138.197.250.188)  0.519 ms  0.484 ms
+ 6  * * *
+ 7  * * *
+ 8  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  84.296 ms * *
+ 9  * * *
+10  * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  151.808 ms *
+11  woa-west-rtr-vl2.SUNet (171.64.255.132)  147.764 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  149.010 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.858 ms
+12  * woa-west-rtr-vl3.SUNet (171.66.255.132)  147.762 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  148.253 ms
+13  web.stanford.edu (171.67.215.200)  146.073 ms * *
+
+Command executed successfully
+Output: 49 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.170 (10.68.132.170)  0.507 ms 10.68.132.168 (10.68.132.168)  0.586 ms 10.68.132.174 (10.68.132.174)  0.507 ms
+ 3  138.197.249.48 (138.197.249.48)  0.717 ms 138.197.249.58 (138.197.249.58)  0.653 ms 138.197.249.52 (138.197.249.52)  5.859 ms
+ 4  138.197.250.137 (138.197.250.137)  0.415 ms 138.197.250.139 (138.197.250.139)  0.409 ms 138.197.250.143 (138.197.250.143)  0.414 ms
+ 5  * 138.197.250.188 (138.197.250.188)  0.390 ms *
+ 6  * * *
+ 7  * * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  80.685 ms
+ 8  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  80.669 ms  80.713 ms *
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.887 ms  148.851 ms  148.820 ms
+11  woa-west-rtr-vl3.SUNet (171.66.255.132)  147.627 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  147.987 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.723 ms
+12  woa-west-rtr-vl3.SUNet (171.66.255.132)  147.887 ms * *
+13  web.stanford.edu (171.67.215.200)  145.629 ms  145.969 ms  146.108 ms
+
+Command executed successfully
+Output: 50 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.164 (10.68.132.164)  0.595 ms 10.68.132.176 (10.68.132.176)  0.593 ms  0.527 ms
+ 3  138.197.249.60 (138.197.249.60)  0.806 ms 138.197.249.52 (138.197.249.52)  0.790 ms 138.197.249.48 (138.197.249.48)  0.809 ms
+ 4  138.197.250.157 (138.197.250.157)  0.368 ms 138.197.250.135 (138.197.250.135)  0.334 ms 138.197.250.141 (138.197.250.141)  0.331 ms
+ 5  138.197.250.188 (138.197.250.188)  1.544 ms *  1.096 ms
+ 6  * * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  85.313 ms * *
+ 8  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  85.145 ms * *
+ 9  * * *
+10  * * *
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.873 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  147.999 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.678 ms
+12  woa-west-rtr-vl3.SUNet (171.66.255.132)  147.690 ms  148.033 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  148.270 ms
+13  web.stanford.edu (171.67.215.200)  146.203 ms  146.431 ms *
+
+Command executed successfully
+Output: 51 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.164 (10.68.132.164)  0.452 ms 10.68.132.162 (10.68.132.162)  0.426 ms 10.68.132.170 (10.68.132.170)  0.423 ms
+ 3  138.197.249.56 (138.197.249.56)  0.701 ms 138.197.249.58 (138.197.249.58)  1.239 ms 138.197.249.48 (138.197.249.48)  0.667 ms
+ 4  138.197.250.153 (138.197.250.153)  0.331 ms 138.197.250.143 (138.197.250.143)  0.330 ms 138.197.250.135 (138.197.250.135)  0.356 ms
+ 5  138.197.250.188 (138.197.250.188)  1.146 ms * *
+ 6  hurricane-ic-360371.ip.twelve99-cust.net (62.115.175.190)  12.571 ms * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.852 ms  148.796 ms  148.779 ms
+11  woa-west-rtr-vl3.SUNet (171.66.255.132)  148.211 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.741 ms  149.133 ms
+12  * * *
+13  * web.stanford.edu (171.67.215.200)  146.281 ms *
+
+Command executed successfully
+Output: 52 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * 10.68.132.172 (10.68.132.172)  0.397 ms  0.368 ms
+ 3  138.197.249.50 (138.197.249.50)  0.805 ms 138.197.249.58 (138.197.249.58)  0.754 ms  1.119 ms
+ 4  138.197.250.157 (138.197.250.157)  0.310 ms 138.197.250.153 (138.197.250.153)  0.306 ms 138.197.250.137 (138.197.250.137)  0.390 ms
+ 5  138.197.250.188 (138.197.250.188)  0.621 ms  0.468 ms  0.416 ms
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  149.851 ms *  149.767 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  149.737 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.667 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.867 ms
+12  * * woa-west-rtr-vl3.SUNet (171.66.255.132)  147.675 ms
+13  * web.stanford.edu (171.67.215.200)  145.664 ms  145.571 ms
+
+Command executed successfully
+Output: 53 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.170 (10.68.132.170)  1.523 ms 10.68.132.162 (10.68.132.162)  1.504 ms 10.68.132.176 (10.68.132.176)  1.531 ms
+ 3  138.197.249.60 (138.197.249.60)  16.857 ms 138.197.249.62 (138.197.249.62)  17.058 ms 138.197.249.56 (138.197.249.56)  1.831 ms
+ 4  138.197.250.141 (138.197.250.141)  1.356 ms 138.197.250.143 (138.197.250.143)  1.339 ms 138.197.250.149 (138.197.250.149)  1.382 ms
+ 5  * 138.197.250.188 (138.197.250.188)  1.911 ms  1.895 ms
+ 6  * * *
+ 7  * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  82.502 ms *
+ 8  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  82.519 ms * *
+ 9  * * *
+10  * * hurricane-ic-366923.ip.twelve99-cust.net (195.12.255.210)  146.216 ms
+11  woa-west-rtr-vl2.SUNet (171.64.255.132)  147.893 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  149.654 ms  149.593 ms
+12  woa-west-rtr-vl2.SUNet (171.64.255.132)  147.835 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  148.095 ms *
+13  * web.stanford.edu (171.67.215.200)  145.551 ms *
+
+Command executed successfully
+Output: 54 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.176 (10.68.132.176)  0.608 ms 10.68.132.164 (10.68.132.164)  0.456 ms 10.68.132.176 (10.68.132.176)  0.547 ms
+ 3  138.197.249.60 (138.197.249.60)  0.840 ms 138.197.249.62 (138.197.249.62)  0.829 ms  1.185 ms
+ 4  138.197.250.137 (138.197.250.137)  0.403 ms 138.197.250.141 (138.197.250.141)  1.125 ms 138.197.250.153 (138.197.250.153)  0.458 ms
+ 5  * 138.197.250.188 (138.197.250.188)  0.572 ms *
+ 6  * * *
+ 7  * * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  80.618 ms
+ 8  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  80.770 ms * *
+ 9  * * *
+10  * * *
+11  woa-west-rtr-vl2.SUNet (171.64.255.132)  147.803 ms  148.187 ms  148.352 ms
+12  woa-west-rtr-vl2.SUNet (171.64.255.132)  148.117 ms * *
+13  * web.stanford.edu (171.67.215.200)  145.776 ms  145.737 ms
+
+Command executed successfully
+Output: 55 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.170 (10.68.132.170)  0.509 ms 10.68.132.174 (10.68.132.174)  0.456 ms 10.68.132.176 (10.68.132.176)  0.523 ms
+ 3  138.197.249.52 (138.197.249.52)  0.953 ms 138.197.249.60 (138.197.249.60)  0.748 ms 138.197.249.56 (138.197.249.56)  0.794 ms
+ 4  138.197.250.143 (138.197.250.143)  0.320 ms * 138.197.250.153 (138.197.250.153)  0.308 ms
+ 5  * 138.197.250.188 (138.197.250.188)  1.800 ms  0.640 ms
+ 6  * * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  81.622 ms * *
+ 8  hurricane-ic-370684.ip.twelve99-cust.net (213.248.104.142)  148.372 ms * *
+ 9  * * *
+10  * * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  149.116 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  149.088 ms  149.026 ms  148.928 ms
+12  * * *
+13  web.stanford.edu (171.67.215.200)  146.339 ms  146.006 ms *
+
+Command executed successfully
+Output: 56 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.172 (10.68.132.172)  0.682 ms 10.68.132.166 (10.68.132.166)  0.461 ms 10.68.132.168 (10.68.132.168)  0.491 ms
+ 3  138.197.249.60 (138.197.249.60)  0.804 ms 138.197.249.54 (138.197.249.54)  0.790 ms 138.197.249.60 (138.197.249.60)  1.145 ms
+ 4  138.197.250.135 (138.197.250.135)  0.478 ms  0.404 ms 138.197.250.139 (138.197.250.139)  0.417 ms
+ 5  * 138.197.250.188 (138.197.250.188)  0.504 ms  0.485 ms
+ 6  * * *
+ 7  * hurricane-ic-360371.ip.twelve99-cust.net (62.115.175.190)  32.952 ms *
+ 8  * * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  119.098 ms
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  149.574 ms *  149.533 ms
+11  woa-west-rtr-vl2.SUNet (171.64.255.132)  148.857 ms  147.664 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  149.883 ms
+12  * * woa-west-rtr-vl3.SUNet (171.66.255.132)  147.511 ms
+13  web.stanford.edu (171.67.215.200)  145.966 ms  145.804 ms  145.785 ms
+
+Command executed successfully
+Output: 57 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.172 (10.68.132.172)  0.587 ms 10.68.132.166 (10.68.132.166)  0.567 ms 10.68.132.172 (10.68.132.172)  0.548 ms
+ 3  138.197.249.48 (138.197.249.48)  0.761 ms 138.197.249.62 (138.197.249.62)  0.870 ms 138.197.249.60 (138.197.249.60)  0.835 ms
+ 4  138.197.250.135 (138.197.250.135)  0.586 ms 138.197.250.149 (138.197.250.149)  1.430 ms 138.197.250.139 (138.197.250.139)  0.528 ms
+ 5  * 138.197.250.188 (138.197.250.188)  0.685 ms  0.544 ms
+ 6  * * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  80.163 ms *  80.073 ms
+ 8  * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  80.081 ms *
+ 9  * * *
+10  * * *
+11  woa-west-rtr-vl3.SUNet (171.66.255.132)  148.103 ms  147.567 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.661 ms
+12  * * woa-west-rtr-vl3.SUNet (171.66.255.132)  147.706 ms
+13  * web.stanford.edu (171.67.215.200)  145.735 ms *
+
+Command executed successfully
+Output: 58 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.170 (10.68.132.170)  0.564 ms 10.68.132.166 (10.68.132.166)  0.453 ms 10.68.132.176 (10.68.132.176)  0.365 ms
+ 3  138.197.249.58 (138.197.249.58)  0.871 ms 138.197.249.50 (138.197.249.50)  0.881 ms  0.855 ms
+ 4  138.197.250.135 (138.197.250.135)  0.762 ms  0.740 ms 138.197.250.139 (138.197.250.139)  0.741 ms
+ 5  port-channel1.core3.fra1.he.net (184.104.198.26)  17.575 ms * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  149.822 ms  148.967 ms  148.871 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.832 ms  148.797 ms  148.765 ms
+12  * * woa-west-rtr-vl3.SUNet (171.66.255.132)  147.675 ms
+13  * web.stanford.edu (171.67.215.200)  146.615 ms *
+
+Command executed successfully
+Output: 59 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.164 (10.68.132.164)  1.007 ms 10.68.132.170 (10.68.132.170)  0.327 ms 10.68.132.162 (10.68.132.162)  8.564 ms
+ 3  138.197.249.48 (138.197.249.48)  5.276 ms 138.197.249.54 (138.197.249.54)  0.890 ms 138.197.249.62 (138.197.249.62)  0.859 ms
+ 4  138.197.250.157 (138.197.250.157)  0.469 ms 138.197.250.139 (138.197.250.139)  0.370 ms 138.197.250.137 (138.197.250.137)  0.777 ms
+ 5  138.197.250.188 (138.197.250.188)  38.868 ms *  38.826 ms
+ 6  * * *
+ 7  * * *
+ 8  * hurricane-ic-370684.ip.twelve99-cust.net (213.248.104.142)  146.748 ms *
+ 9  * * *
+10  * * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.916 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.894 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  148.096 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.819 ms
+12  * * woa-west-rtr-vl3.SUNet (171.66.255.132)  147.864 ms
+13  web.stanford.edu (171.67.215.200)  145.631 ms * *
+
+Command executed successfully
+Output: 60 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.168 (10.68.132.168)  0.536 ms 10.68.132.162 (10.68.132.162)  0.503 ms 10.68.132.170 (10.68.132.170)  0.611 ms
+ 3  138.197.249.48 (138.197.249.48)  0.715 ms 138.197.249.52 (138.197.249.52)  0.830 ms 138.197.249.50 (138.197.249.50)  0.649 ms
+ 4  138.197.250.141 (138.197.250.141)  0.405 ms  0.416 ms 138.197.250.137 (138.197.250.137)  0.434 ms
+ 5  138.197.250.188 (138.197.250.188)  0.578 ms *  0.557 ms
+ 6  * * *
+ 7  * * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  80.640 ms
+ 8  * * *
+ 9  * hurricane-ic-366923.ip.twelve99-cust.net (195.12.255.210)  156.253 ms *
+10  * * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  150.023 ms
+11  woa-west-rtr-vl2.SUNet (171.64.255.132)  147.805 ms  148.013 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.692 ms
+12  woa-west-rtr-vl2.SUNet (171.64.255.132)  147.863 ms *  147.758 ms
+13  * web.stanford.edu (171.67.215.200)  146.412 ms *
+
+Command executed successfully
+Output: 61 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.170 (10.68.132.170)  0.394 ms 10.68.132.166 (10.68.132.166)  0.556 ms 10.68.132.176 (10.68.132.176)  0.383 ms
+ 3  138.197.249.48 (138.197.249.48)  0.685 ms 138.197.249.54 (138.197.249.54)  0.812 ms 138.197.249.58 (138.197.249.58)  0.793 ms
+ 4  138.197.250.157 (138.197.250.157)  0.608 ms 138.197.250.143 (138.197.250.143)  0.319 ms 138.197.250.153 (138.197.250.153)  0.477 ms
+ 5  138.197.250.188 (138.197.250.188)  0.457 ms  0.438 ms *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.712 ms  148.672 ms  148.651 ms
+11  woa-west-rtr-vl3.SUNet (171.66.255.132)  147.556 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.977 ms  148.920 ms
+12  woa-west-rtr-vl3.SUNet (171.66.255.132)  147.589 ms * woa-west-rtr-vl2.SUNet (171.64.255.132)  148.292 ms
+13  web.stanford.edu (171.67.215.200)  146.501 ms *  145.669 ms
+
+Command executed successfully
+Output: 62 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.176 (10.68.132.176)  0.613 ms 10.68.132.170 (10.68.132.170)  0.413 ms 10.68.132.168 (10.68.132.168)  0.500 ms
+ 3  138.197.249.54 (138.197.249.54)  0.936 ms 138.197.249.60 (138.197.249.60)  0.777 ms 138.197.249.58 (138.197.249.58)  0.884 ms
+ 4  138.197.250.153 (138.197.250.153)  0.308 ms 138.197.250.137 (138.197.250.137)  0.365 ms 138.197.250.153 (138.197.250.153)  0.279 ms
+ 5  * * *
+ 6  * * *
+ 7  * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  92.838 ms *
+ 8  * * *
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.865 ms *  149.076 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.900 ms  148.843 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  147.850 ms
+12  * * *
+13  * web.stanford.edu (171.67.215.200)  146.265 ms *
+
+Command executed successfully
+Output: 63 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.172 (10.68.132.172)  0.922 ms 10.68.132.170 (10.68.132.170)  0.895 ms 10.68.132.168 (10.68.132.168)  0.864 ms
+ 3  138.197.249.50 (138.197.249.50)  0.839 ms 138.197.249.54 (138.197.249.54)  0.860 ms 138.197.249.48 (138.197.249.48)  1.289 ms
+ 4  138.197.250.149 (138.197.250.149)  0.746 ms 138.197.250.157 (138.197.250.157)  0.698 ms 138.197.250.153 (138.197.250.153)  0.670 ms
+ 5  * * *
+ 6  * * *
+ 7  * * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  80.640 ms
+ 8  * * *
+ 9  * * *
+10  * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.710 ms *
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.990 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.704 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.932 ms
+12  * * woa-west-rtr-vl2.SUNet (171.64.255.132)  148.077 ms
+13  web.stanford.edu (171.67.215.200)  145.727 ms * *
+
+Command executed successfully
+Output: 64 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.176 (10.68.132.176)  0.714 ms 10.68.132.164 (10.68.132.164)  0.698 ms 10.68.132.176 (10.68.132.176)  0.675 ms
+ 3  138.197.249.50 (138.197.249.50)  1.048 ms 138.197.249.56 (138.197.249.56)  0.790 ms 138.197.249.54 (138.197.249.54)  1.431 ms
+ 4  138.197.250.135 (138.197.250.135)  0.610 ms 138.197.250.139 (138.197.250.139)  0.580 ms 138.197.250.153 (138.197.250.153)  0.506 ms
+ 5  138.197.250.188 (138.197.250.188)  0.608 ms  0.580 ms  0.468 ms
+ 6  * * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  81.745 ms hurricane-ic-360371.ip.twelve99-cust.net (62.115.175.190)  96.129 ms *
+ 8  * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  82.469 ms *
+ 9  hurricane-ic-366923.ip.twelve99-cust.net (195.12.255.210)  146.385 ms * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.818 ms * hurricane-ic-366923.ip.twelve99-cust.net (195.12.255.210)  146.729 ms
+11  woa-west-rtr-vl2.SUNet (171.64.255.132)  149.483 ms  147.893 ms  147.926 ms
+12  * * *
+13  * web.stanford.edu (171.67.215.200)  145.856 ms  145.573 ms
+
+Command executed successfully
+Output: 65 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.176 (10.68.132.176)  0.383 ms 10.68.132.166 (10.68.132.166)  0.359 ms 10.68.132.162 (10.68.132.162)  0.341 ms
+ 3  138.197.249.52 (138.197.249.52)  0.898 ms 138.197.249.62 (138.197.249.62)  0.862 ms 138.197.249.56 (138.197.249.56)  0.824 ms
+ 4  138.197.250.135 (138.197.250.135)  0.408 ms 138.197.250.157 (138.197.250.157)  0.397 ms 138.197.250.139 (138.197.250.139)  0.667 ms
+ 5  * 138.197.250.188 (138.197.250.188)  0.629 ms  0.607 ms
+ 6  * * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  87.192 ms *  87.019 ms
+ 8  * * *
+ 9  * * *
+10  * * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  149.237 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  149.217 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  148.434 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.943 ms
+12  * * woa-west-rtr-vl3.SUNet (171.66.255.132)  147.567 ms
+13  * * web.stanford.edu (171.67.215.200)  145.887 ms
+
+Command executed successfully
+Output: 66 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.168 (10.68.132.168)  0.487 ms 10.68.132.164 (10.68.132.164)  0.588 ms  0.559 ms
+ 3  138.197.249.56 (138.197.249.56)  0.714 ms 138.197.249.60 (138.197.249.60)  0.878 ms 138.197.249.54 (138.197.249.54)  0.703 ms
+ 4  138.197.250.157 (138.197.250.157)  0.440 ms 138.197.250.153 (138.197.250.153)  0.721 ms  0.464 ms
+ 5  * * *
+ 6  * hurricane-ic-360371.ip.twelve99-cust.net (62.115.175.190)  28.630 ms *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  93.439 ms * *
+ 8  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  93.317 ms  93.242 ms  93.307 ms
+ 9  hurricane-ic-370684.ip.twelve99-cust.net (213.248.104.142)  150.464 ms * *
+10  hurricane-ic-366923.ip.twelve99-cust.net (195.12.255.210)  146.673 ms * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  149.127 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  149.034 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  148.677 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.731 ms
+12  * * woa-west-rtr-vl3.SUNet (171.66.255.132)  147.919 ms
+13  web.stanford.edu (171.67.215.200)  146.322 ms * *
+
+Command executed successfully
+Output: 67 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.176 (10.68.132.176)  0.388 ms 10.68.132.166 (10.68.132.166)  0.503 ms  0.452 ms
+ 3  138.197.249.56 (138.197.249.56)  1.092 ms 138.197.249.52 (138.197.249.52)  0.983 ms  1.214 ms
+ 4  138.197.250.143 (138.197.250.143)  0.852 ms 138.197.250.137 (138.197.250.137)  0.802 ms 138.197.250.149 (138.197.250.149)  0.369 ms
+ 5  138.197.250.188 (138.197.250.188)  0.675 ms *  0.587 ms
+ 6  * * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  104.958 ms *  104.398 ms
+ 8  * * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  106.283 ms
+ 9  * * *
+10  * hurricane-ic-366923.ip.twelve99-cust.net (195.12.255.210)  153.800 ms *
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.931 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  149.512 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  150.401 ms
+12  * woa-west-rtr-vl2.SUNet (171.64.255.132)  147.762 ms  149.575 ms
+13  * * web.stanford.edu (171.67.215.200)  145.471 ms
+
+Command executed successfully
+Output: 68 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.176 (10.68.132.176)  9.282 ms 10.68.132.164 (10.68.132.164)  0.485 ms 10.68.132.166 (10.68.132.166)  1.022 ms
+ 3  138.197.249.50 (138.197.249.50)  1.067 ms 138.197.249.48 (138.197.249.48)  1.047 ms 138.197.249.54 (138.197.249.54)  10.808 ms
+ 4  138.197.250.135 (138.197.250.135)  0.347 ms 138.197.250.153 (138.197.250.153)  0.442 ms 138.197.250.141 (138.197.250.141)  0.330 ms
+ 5  port-channel1.core3.fra1.he.net (184.104.198.26)  28.412 ms 138.197.250.188 (138.197.250.188)  0.462 ms *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  woa-west-rtr-vl2.SUNet (171.64.255.132)  147.877 ms  148.015 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.773 ms
+12  * woa-west-rtr-vl3.SUNet (171.66.255.132)  147.667 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  147.968 ms
+13  * * *
+14  web.stanford.edu (171.67.215.200)  145.636 ms  145.589 ms  145.738 ms
+
+Command executed successfully
+Output: 69 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.166 (10.68.132.166)  0.426 ms 10.68.132.162 (10.68.132.162)  0.515 ms 10.68.132.170 (10.68.132.170)  0.464 ms
+ 3  138.197.249.56 (138.197.249.56)  6.079 ms 138.197.249.54 (138.197.249.54)  0.864 ms 138.197.249.56 (138.197.249.56)  6.033 ms
+ 4  138.197.250.153 (138.197.250.153)  0.317 ms  0.292 ms 138.197.250.141 (138.197.250.141)  0.327 ms
+ 5  138.197.250.188 (138.197.250.188)  0.610 ms  0.590 ms *
+ 6  * * *
+ 7  * * *
+ 8  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  88.845 ms * *
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  149.033 ms  148.993 ms  148.963 ms
+11  woa-west-rtr-vl3.SUNet (171.66.255.132)  147.639 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.893 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.622 ms
+12  woa-west-rtr-vl2.SUNet (171.64.255.132)  147.791 ms * woa-west-rtr-vl3.SUNet (171.66.255.132)  147.721 ms
+13  web.stanford.edu (171.67.215.200)  146.195 ms * *
+
+Command executed successfully
+Output: 70 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.176 (10.68.132.176)  0.776 ms 10.68.132.174 (10.68.132.174)  0.743 ms 10.68.132.168 (10.68.132.168)  0.708 ms
+ 3  138.197.249.48 (138.197.249.48)  2.982 ms 138.197.249.62 (138.197.249.62)  0.888 ms 138.197.249.48 (138.197.249.48)  3.152 ms
+ 4  138.197.250.137 (138.197.250.137)  0.751 ms 138.197.250.153 (138.197.250.153)  0.552 ms 138.197.250.157 (138.197.250.157)  0.522 ms
+ 5  138.197.250.188 (138.197.250.188)  0.948 ms *  0.625 ms
+ 6  * * *
+ 7  * * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  98.142 ms
+ 8  hurricane-ic-370684.ip.twelve99-cust.net (213.248.104.142)  146.589 ms * *
+ 9  * * *
+10  * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  151.016 ms  150.983 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  150.953 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.543 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  147.921 ms
+12  * woa-west-rtr-vl2.SUNet (171.64.255.132)  147.671 ms *
+13  web.stanford.edu (171.67.215.200)  145.219 ms * *
+
+Command executed successfully
+Output: 71 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.170 (10.68.132.170)  0.593 ms 10.68.132.164 (10.68.132.164)  0.559 ms 10.68.132.170 (10.68.132.170)  0.525 ms
+ 3  138.197.249.58 (138.197.249.58)  0.848 ms *  1.329 ms
+ 4  138.197.250.135 (138.197.250.135)  4.214 ms  4.186 ms 138.197.250.141 (138.197.250.141)  0.464 ms
+ 5  * 138.197.250.188 (138.197.250.188)  0.428 ms  0.410 ms
+ 6  * * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  95.154 ms * *
+ 8  hurricane-ic-370684.ip.twelve99-cust.net (213.248.104.142)  151.518 ms * *
+ 9  * hurricane-ic-366923.ip.twelve99-cust.net (195.12.255.210)  147.906 ms *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  153.177 ms *  153.127 ms
+11  woa-west-rtr-vl2.SUNet (171.64.255.132)  149.249 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.550 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.825 ms
+12  woa-west-rtr-vl3.SUNet (171.66.255.132)  147.951 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  148.011 ms *
+13  * * *
+14  web.stanford.edu (171.67.215.200)  146.397 ms  146.398 ms  146.352 ms
+
+Command executed successfully
+Output: 72 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.168 (10.68.132.168)  0.952 ms 10.68.132.174 (10.68.132.174)  1.163 ms 10.68.132.172 (10.68.132.172)  0.885 ms
+ 3  138.197.249.62 (138.197.249.62)  1.325 ms  1.213 ms 138.197.249.58 (138.197.249.58)  3.989 ms
+ 4  138.197.250.157 (138.197.250.157)  0.945 ms 138.197.250.137 (138.197.250.137)  0.917 ms 138.197.250.149 (138.197.250.149)  0.829 ms
+ 5  * 138.197.250.188 (138.197.250.188)  0.921 ms  0.923 ms
+ 6  * * *
+ 7  * * *
+ 8  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  84.485 ms * *
+ 9  * * hurricane-ic-366923.ip.twelve99-cust.net (195.12.255.210)  152.083 ms
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  151.553 ms *  151.470 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  151.442 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.657 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  147.945 ms
+12  * woa-west-rtr-vl3.SUNet (171.66.255.132)  147.821 ms *
+13  * * web.stanford.edu (171.67.215.200)  145.871 ms
+
+Command executed successfully
+Output: 73 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.176 (10.68.132.176)  0.850 ms 10.68.132.162 (10.68.132.162)  0.395 ms 10.68.132.166 (10.68.132.166)  0.846 ms
+ 3  138.197.249.58 (138.197.249.58)  0.817 ms 138.197.249.62 (138.197.249.62)  0.901 ms 138.197.249.50 (138.197.249.50)  7.742 ms
+ 4  138.197.250.137 (138.197.250.137)  0.602 ms 138.197.250.139 (138.197.250.139)  0.307 ms 138.197.250.143 (138.197.250.143)  0.279 ms
+ 5  138.197.250.188 (138.197.250.188)  0.457 ms  0.429 ms *
+ 6  hurricane-ic-360371.ip.twelve99-cust.net (62.115.175.190)  15.622 ms * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  88.378 ms * *
+ 8  * * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  88.025 ms
+ 9  * * *
+10  * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  152.588 ms  152.509 ms
+11  woa-west-rtr-vl3.SUNet (171.66.255.132)  152.473 ms  152.405 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  151.143 ms
+12  woa-west-rtr-vl2.SUNet (171.64.255.132)  151.099 ms * *
+13  web.stanford.edu (171.67.215.200)  145.967 ms * *
+
+Command executed successfully
+Output: 74 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.164 (10.68.132.164)  0.501 ms 10.68.132.166 (10.68.132.166)  7.991 ms 10.68.132.164 (10.68.132.164)  0.425 ms
+ 3  138.197.249.52 (138.197.249.52)  0.849 ms 138.197.249.48 (138.197.249.48)  0.819 ms  7.116 ms
+ 4  138.197.250.149 (138.197.250.149)  0.305 ms  0.278 ms 138.197.250.135 (138.197.250.135)  0.461 ms
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.834 ms hurricane-ic-366923.ip.twelve99-cust.net (195.12.255.210)  146.917 ms *
+11  woa-west-rtr-vl3.SUNet (171.66.255.132)  153.869 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  147.716 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  153.799 ms
+12  * woa-west-rtr-vl2.SUNet (171.64.255.132)  153.745 ms  153.722 ms
+13  * * *
+14  web.stanford.edu (171.67.215.200)  145.904 ms  146.023 ms  145.862 ms
+
+Command executed successfully
+Output: 75 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.174 (10.68.132.174)  0.347 ms 10.68.132.162 (10.68.132.162)  0.427 ms 10.68.132.176 (10.68.132.176)  0.349 ms
+ 3  138.197.249.62 (138.197.249.62)  0.794 ms 138.197.249.56 (138.197.249.56)  0.756 ms 138.197.249.48 (138.197.249.48)  15.283 ms
+ 4  138.197.250.149 (138.197.250.149)  0.286 ms 138.197.250.141 (138.197.250.141)  0.337 ms 138.197.250.137 (138.197.250.137)  0.322 ms
+ 5  138.197.250.188 (138.197.250.188)  0.487 ms *  0.432 ms
+ 6  * * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  82.834 ms  82.809 ms *
+ 8  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  82.732 ms * *
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  157.285 ms * *
+11  woa-west-rtr-vl2.SUNet (171.64.255.132)  149.390 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  149.336 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  149.307 ms
+12  woa-west-rtr-vl3.SUNet (171.66.255.132)  149.286 ms * woa-west-rtr-vl2.SUNet (171.64.255.132)  152.765 ms
+13  web.stanford.edu (171.67.215.200)  145.602 ms  145.817 ms *
+
+Command executed successfully
+Output: 76 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.174 (10.68.132.174)  14.254 ms 10.68.132.170 (10.68.132.170)  0.611 ms  0.590 ms
+ 3  138.197.249.56 (138.197.249.56)  0.825 ms 138.197.249.50 (138.197.249.50)  1.958 ms  1.939 ms
+ 4  138.197.250.157 (138.197.250.157)  0.313 ms 138.197.250.149 (138.197.250.149)  0.352 ms 138.197.250.141 (138.197.250.141)  0.314 ms
+ 5  port-channel1.core3.fra1.he.net (184.104.198.26)  3.840 ms 138.197.250.188 (138.197.250.188)  0.576 ms *
+ 6  * * *
+ 7  * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  80.169 ms *
+ 8  * * *
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.939 ms *  148.737 ms
+11  woa-west-rtr-vl2.SUNet (171.64.255.132)  147.827 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.683 ms  148.629 ms
+12  * woa-west-rtr-vl3.SUNet (171.66.255.132)  153.526 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  153.499 ms
+13  * web.stanford.edu (171.67.215.200)  145.827 ms *
+
+Command executed successfully
+Output: 77 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.168 (10.68.132.168)  0.653 ms 10.68.132.166 (10.68.132.166)  0.564 ms 10.68.132.168 (10.68.132.168)  0.606 ms
+ 3  138.197.249.48 (138.197.249.48)  0.763 ms 138.197.249.50 (138.197.249.50)  0.742 ms  1.106 ms
+ 4  138.197.250.157 (138.197.250.157)  6.330 ms  0.304 ms 138.197.250.139 (138.197.250.139)  36.010 ms
+ 5  * * 138.197.250.188 (138.197.250.188)  35.877 ms
+ 6  * * *
+ 7  hurricane-ic-360371.ip.twelve99-cust.net (62.115.175.190)  12.720 ms hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  158.542 ms  158.713 ms
+ 8  * * *
+ 9  * hurricane-ic-370684.ip.twelve99-cust.net (213.248.104.142)  147.142 ms *
+10  * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  168.343 ms  171.255 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  171.230 ms  168.273 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  148.874 ms
+12  * woa-west-rtr-vl3.SUNet (171.66.255.132)  147.638 ms *
+13  web.stanford.edu (171.67.215.200)  146.283 ms  146.433 ms  146.415 ms
+
+Command executed successfully
+Output: 78 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.162 (10.68.132.162)  0.433 ms 10.68.132.172 (10.68.132.172)  0.430 ms 10.68.132.168 (10.68.132.168)  0.594 ms
+ 3  138.197.249.52 (138.197.249.52)  6.456 ms 138.197.249.48 (138.197.249.48)  0.929 ms 138.197.249.50 (138.197.249.50)  0.825 ms
+ 4  138.197.250.143 (138.197.250.143)  0.358 ms 138.197.250.135 (138.197.250.135)  0.640 ms 138.197.250.149 (138.197.250.149)  0.416 ms
+ 5  138.197.250.188 (138.197.250.188)  0.505 ms *  0.454 ms
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.808 ms *
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.747 ms  152.033 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  151.966 ms
+12  * * *
+13  * web.stanford.edu (171.67.215.200)  145.356 ms  145.964 ms
+
+Command executed successfully
+Output: 79 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.166 (10.68.132.166)  6.820 ms 10.68.132.174 (10.68.132.174)  0.657 ms 10.68.132.172 (10.68.132.172)  0.707 ms
+ 3  138.197.249.48 (138.197.249.48)  1.354 ms 138.197.249.50 (138.197.249.50)  1.337 ms 138.197.249.48 (138.197.249.48)  1.319 ms
+ 4  138.197.250.135 (138.197.250.135)  0.436 ms 138.197.250.141 (138.197.250.141)  0.577 ms  0.601 ms
+ 5  138.197.250.188 (138.197.250.188)  0.724 ms  0.563 ms *
+ 6  * * *
+ 7  * * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  103.975 ms
+ 8  * * *
+ 9  * * *
+10  * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  151.711 ms  151.686 ms
+11  woa-west-rtr-vl2.SUNet (171.64.255.132)  151.661 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  151.610 ms  153.361 ms
+12  * woa-west-rtr-vl2.SUNet (171.64.255.132)  153.270 ms *
+13  web.stanford.edu (171.67.215.200)  146.196 ms  145.581 ms  151.294 ms
+
+Command executed successfully
+Output: 80 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.174 (10.68.132.174)  0.556 ms 10.68.132.162 (10.68.132.162)  0.414 ms 10.68.132.176 (10.68.132.176)  0.378 ms
+ 3  138.197.249.50 (138.197.249.50)  0.843 ms 138.197.249.54 (138.197.249.54)  0.843 ms 138.197.249.58 (138.197.249.58)  0.860 ms
+ 4  138.197.250.137 (138.197.250.137)  0.747 ms  0.348 ms 138.197.250.153 (138.197.250.153)  0.318 ms
+ 5  * * 138.197.250.188 (138.197.250.188)  0.594 ms
+ 6  * * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  94.259 ms * *
+ 8  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  93.973 ms * *
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  149.007 ms * *
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.922 ms  148.675 ms  148.673 ms
+12  * * *
+13  web.stanford.edu (171.67.215.200)  145.796 ms  145.764 ms  146.118 ms
+
+Command executed successfully
+Output: 81 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.164 (10.68.132.164)  4.340 ms 10.68.132.166 (10.68.132.166)  4.315 ms 10.68.132.164 (10.68.132.164)  4.297 ms
+ 3  138.197.249.54 (138.197.249.54)  4.342 ms 138.197.249.60 (138.197.249.60)  4.256 ms 138.197.249.52 (138.197.249.52)  4.303 ms
+ 4  138.197.250.149 (138.197.250.149)  4.215 ms 138.197.250.157 (138.197.250.157)  4.184 ms 138.197.250.135 (138.197.250.135)  4.165 ms
+ 5  * 138.197.250.188 (138.197.250.188)  4.116 ms  4.004 ms
+ 6  * * *
+ 7  * * hurricane-ic-360371.ip.twelve99-cust.net (62.115.175.190)  27.425 ms
+ 8  * * *
+ 9  hurricane-ic-366923.ip.twelve99-cust.net (195.12.255.210)  151.482 ms * *
+10  * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  152.795 ms *
+11  woa-west-rtr-vl2.SUNet (171.64.255.132)  152.715 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  152.688 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.739 ms
+12  * woa-west-rtr-vl2.SUNet (171.64.255.132)  147.919 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  148.227 ms
+13  web.stanford.edu (171.67.215.200)  146.179 ms  146.151 ms  145.687 ms
+
+Command executed successfully
+Output: 82 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.168 (10.68.132.168)  0.373 ms 10.68.132.164 (10.68.132.164)  0.638 ms 10.68.132.176 (10.68.132.176)  0.399 ms
+ 3  138.197.249.52 (138.197.249.52)  7.458 ms 138.197.249.58 (138.197.249.58)  0.911 ms  0.883 ms
+ 4  138.197.250.153 (138.197.250.153)  0.287 ms 138.197.250.139 (138.197.250.139)  0.643 ms 138.197.250.137 (138.197.250.137)  0.291 ms
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * hurricane-ic-370684.ip.twelve99-cust.net (213.248.104.142)  146.770 ms *
+10  * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  151.671 ms  151.529 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  149.033 ms  159.959 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.889 ms
+12  woa-west-rtr-vl3.SUNet (171.66.255.132)  147.691 ms  147.646 ms *
+13  web.stanford.edu (171.67.215.200)  145.807 ms *  145.713 ms
+
+Command executed successfully
+Output: 83 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.170 (10.68.132.170)  0.817 ms 10.68.132.176 (10.68.132.176)  0.638 ms 10.68.132.172 (10.68.132.172)  8.485 ms
+ 3  138.197.249.52 (138.197.249.52)  8.465 ms 138.197.249.60 (138.197.249.60)  0.887 ms  0.861 ms
+ 4  138.197.250.141 (138.197.250.141)  0.475 ms 138.197.250.137 (138.197.250.137)  0.492 ms 138.197.250.157 (138.197.250.157)  0.514 ms
+ 5  * * 138.197.250.188 (138.197.250.188)  8.299 ms
+ 6  * * *
+ 7  * * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  176.736 ms
+ 8  hurricane-ic-370684.ip.twelve99-cust.net (213.248.104.142)  146.673 ms  146.645 ms *
+ 9  hurricane-ic-366923.ip.twelve99-cust.net (195.12.255.210)  151.873 ms * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  153.792 ms  153.764 ms  151.960 ms
+11  woa-west-rtr-vl2.SUNet (171.64.255.132)  151.920 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  148.307 ms  148.247 ms
+12  * woa-west-rtr-vl2.SUNet (171.64.255.132)  152.650 ms *
+13  * web.stanford.edu (171.67.215.200)  147.827 ms  147.810 ms
+
+Command executed successfully
+Output: 84 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.164 (10.68.132.164)  0.795 ms 10.68.132.174 (10.68.132.174)  0.758 ms 10.68.132.164 (10.68.132.164)  0.740 ms
+ 3  138.197.249.56 (138.197.249.56)  19.043 ms 138.197.249.52 (138.197.249.52)  0.948 ms  1.313 ms
+ 4  138.197.250.139 (138.197.250.139)  0.388 ms 138.197.250.137 (138.197.250.137)  0.395 ms 138.197.250.157 (138.197.250.157)  0.338 ms
+ 5  138.197.250.188 (138.197.250.188)  1.220 ms  1.005 ms *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * hurricane-ic-370684.ip.twelve99-cust.net (213.248.104.142)  147.675 ms
+10  * * *
+11  woa-west-rtr-vl3.SUNet (171.66.255.132)  147.849 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.814 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.684 ms
+12  * woa-west-rtr-vl2.SUNet (171.64.255.132)  147.829 ms *
+13  * web.stanford.edu (171.67.215.200)  147.939 ms  145.851 ms
+
+Command executed successfully
+Output: 85 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.170 (10.68.132.170)  0.578 ms  0.546 ms 10.68.132.172 (10.68.132.172)  0.593 ms
+ 3  138.197.249.48 (138.197.249.48)  0.728 ms 138.197.249.50 (138.197.249.50)  0.699 ms  1.146 ms
+ 4  138.197.250.135 (138.197.250.135)  0.560 ms 138.197.250.137 (138.197.250.137)  0.520 ms 138.197.250.149 (138.197.250.149)  0.382 ms
+ 5  138.197.250.188 (138.197.250.188)  0.462 ms  0.438 ms *
+ 6  * hurricane-ic-360371.ip.twelve99-cust.net (62.115.175.190)  18.116 ms *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  108.348 ms  108.344 ms  108.411 ms
+ 8  * * *
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  188.434 ms * *
+11  woa-west-rtr-vl3.SUNet (171.66.255.132)  147.817 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  148.313 ms  147.748 ms
+12  * * woa-west-rtr-vl2.SUNet (171.64.255.132)  147.723 ms
+13  * web.stanford.edu (171.67.215.200)  145.534 ms  145.309 ms
+
+Command executed successfully
+Output: 86 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.170 (10.68.132.170)  0.490 ms 10.68.132.168 (10.68.132.168)  0.578 ms  0.552 ms
+ 3  138.197.249.58 (138.197.249.58)  0.846 ms  0.816 ms 138.197.249.62 (138.197.249.62)  0.833 ms
+ 4  138.197.250.141 (138.197.250.141)  0.628 ms 138.197.250.143 (138.197.250.143)  0.342 ms 138.197.250.157 (138.197.250.157)  0.317 ms
+ 5  138.197.250.188 (138.197.250.188)  0.357 ms * *
+ 6  * * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  83.344 ms  83.842 ms  83.916 ms
+ 8  * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  83.878 ms *
+ 9  hurricane-ic-366923.ip.twelve99-cust.net (195.12.255.210)  147.554 ms * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.703 ms * *
+11  woa-west-rtr-vl3.SUNet (171.66.255.132)  147.861 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  149.248 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  149.208 ms
+12  * * *
+13  * * web.stanford.edu (171.67.215.200)  146.376 ms
+
+Command executed successfully
+Output: 87 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * 10.68.132.176 (10.68.132.176)  0.408 ms  0.386 ms
+ 3  138.197.249.48 (138.197.249.48)  0.793 ms 138.197.249.52 (138.197.249.52)  0.888 ms 138.197.249.60 (138.197.249.60)  4.737 ms
+ 4  138.197.250.141 (138.197.250.141)  0.401 ms 138.197.250.143 (138.197.250.143)  0.603 ms 138.197.250.135 (138.197.250.135)  1.420 ms
+ 5  * * 138.197.250.188 (138.197.250.188)  0.580 ms
+ 6  * * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  91.999 ms * *
+ 8  * * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  90.958 ms
+ 9  hurricane-ic-370684.ip.twelve99-cust.net (213.248.104.142)  146.404 ms * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  155.555 ms  155.540 ms *
+11  woa-west-rtr-vl3.SUNet (171.66.255.132)  148.599 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.773 ms  148.734 ms
+12  woa-west-rtr-vl3.SUNet (171.66.255.132)  148.077 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  148.584 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  148.105 ms
+13  * * web.stanford.edu (171.67.215.200)  146.194 ms
+
+Command executed successfully
+Output: 88 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.162 (10.68.132.162)  0.482 ms 10.68.132.168 (10.68.132.168)  0.486 ms 10.68.132.174 (10.68.132.174)  0.352 ms
+ 3  138.197.249.50 (138.197.249.50)  0.887 ms 138.197.249.52 (138.197.249.52)  0.855 ms 138.197.249.54 (138.197.249.54)  0.807 ms
+ 4  138.197.250.143 (138.197.250.143)  0.452 ms 138.197.250.135 (138.197.250.135)  0.856 ms 138.197.250.153 (138.197.250.153)  0.818 ms
+ 5  138.197.250.188 (138.197.250.188)  0.672 ms  0.692 ms *
+ 6  * * *
+ 7  * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  82.356 ms *
+ 8  * * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  82.949 ms
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  149.223 ms *  149.147 ms
+11  woa-west-rtr-vl2.SUNet (171.64.255.132)  149.117 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  150.063 ms  150.029 ms
+12  * woa-west-rtr-vl3.SUNet (171.66.255.132)  149.241 ms *
+13  web.stanford.edu (171.67.215.200)  149.209 ms  149.191 ms *
+
+Command executed successfully
+Output: 89 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.174 (10.68.132.174)  0.444 ms 10.68.132.164 (10.68.132.164)  0.521 ms 10.68.132.172 (10.68.132.172)  0.435 ms
+ 3  138.197.249.58 (138.197.249.58)  0.789 ms  1.308 ms 138.197.249.50 (138.197.249.50)  0.762 ms
+ 4  138.197.250.137 (138.197.250.137)  0.338 ms  0.317 ms 138.197.250.135 (138.197.250.135)  0.843 ms
+ 5  * * 138.197.250.188 (138.197.250.188)  0.604 ms
+ 6  * * hurricane-ic-360371.ip.twelve99-cust.net (62.115.175.190)  14.585 ms
+ 7  * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  80.169 ms  83.910 ms
+ 8  * * *
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.834 ms *  148.776 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.750 ms  148.917 ms  148.853 ms
+12  * woa-west-rtr-vl3.SUNet (171.66.255.132)  147.616 ms  147.684 ms
+13  * web.stanford.edu (171.67.215.200)  146.008 ms *
+
+Command executed successfully
+Output: 90 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.170 (10.68.132.170)  0.529 ms  0.512 ms 10.68.132.166 (10.68.132.166)  0.357 ms
+ 3  138.197.249.52 (138.197.249.52)  0.928 ms 138.197.249.56 (138.197.249.56)  7.636 ms 138.197.249.52 (138.197.249.52)  0.894 ms
+ 4  138.197.250.153 (138.197.250.153)  0.321 ms 138.197.250.139 (138.197.250.139)  0.369 ms 138.197.250.149 (138.197.250.149)  7.180 ms
+ 5  138.197.250.188 (138.197.250.188)  0.598 ms *  0.542 ms
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  151.720 ms hurricane-ic-366923.ip.twelve99-cust.net (195.12.255.210)  151.663 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  151.639 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  151.614 ms  149.388 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  149.321 ms
+12  * woa-west-rtr-vl3.SUNet (171.66.255.132)  149.248 ms *
+13  web.stanford.edu (171.67.215.200)  146.507 ms * *
+
+Command executed successfully
+Output: 91 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.162 (10.68.132.162)  0.480 ms 10.68.132.166 (10.68.132.166)  0.372 ms 10.68.132.176 (10.68.132.176)  0.421 ms
+ 3  138.197.249.54 (138.197.249.54)  0.731 ms 138.197.249.60 (138.197.249.60)  0.944 ms 138.197.249.56 (138.197.249.56)  0.767 ms
+ 4  138.197.250.135 (138.197.250.135)  0.495 ms 138.197.250.139 (138.197.250.139)  0.327 ms 138.197.250.141 (138.197.250.141)  1.362 ms
+ 5  * 138.197.250.188 (138.197.250.188)  0.647 ms  0.474 ms
+ 6  * * *
+ 7  * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  80.560 ms *
+ 8  * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  80.631 ms *
+ 9  * * *
+10  * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.503 ms *
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.560 ms  148.803 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.562 ms
+12  woa-west-rtr-vl3.SUNet (171.66.255.132)  150.923 ms  150.757 ms *
+13  web.stanford.edu (171.67.215.200)  150.322 ms  145.269 ms  145.808 ms
+
+Command executed successfully
+Output: 92 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.166 (10.68.132.166)  0.484 ms  0.454 ms 10.68.132.176 (10.68.132.176)  0.666 ms
+ 3  138.197.249.62 (138.197.249.62)  0.895 ms 138.197.249.60 (138.197.249.60)  0.869 ms 138.197.249.52 (138.197.249.52)  0.840 ms
+ 4  138.197.250.149 (138.197.250.149)  0.353 ms 138.197.250.153 (138.197.250.153)  0.517 ms  0.491 ms
+ 5  port-channel1.core3.fra1.he.net (184.104.198.26)  1.305 ms 138.197.250.188 (138.197.250.188)  0.503 ms *
+ 6  * * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  83.249 ms * *
+ 8  * * *
+ 9  * * *
+10  * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.852 ms *
+11  woa-west-rtr-vl2.SUNet (171.64.255.132)  147.772 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.705 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  147.853 ms
+12  woa-west-rtr-vl2.SUNet (171.64.255.132)  148.067 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  148.203 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  147.767 ms
+13  * * *
+14  web.stanford.edu (171.67.215.200)  146.048 ms  148.980 ms  148.914 ms
+
+Command executed successfully
+Output: 93 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.168 (10.68.132.168)  0.377 ms 10.68.132.166 (10.68.132.166)  0.299 ms  0.268 ms
+ 3  138.197.249.52 (138.197.249.52)  0.972 ms 138.197.249.60 (138.197.249.60)  0.942 ms 138.197.249.50 (138.197.249.50)  4.116 ms
+ 4  138.197.250.135 (138.197.250.135)  0.366 ms 138.197.250.141 (138.197.250.141)  2.272 ms 138.197.250.139 (138.197.250.139)  0.306 ms
+ 5  138.197.250.188 (138.197.250.188)  0.784 ms * *
+ 6  * * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  81.236 ms *  81.608 ms
+ 8  * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  81.149 ms  81.212 ms
+ 9  * * *
+10  * * *
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  153.155 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  153.094 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  153.067 ms
+12  * woa-west-rtr-vl3.SUNet (171.66.255.132)  153.014 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  148.926 ms
+13  * * *
+14  web.stanford.edu (171.67.215.200)  146.734 ms  145.812 ms  145.894 ms
+
+Command executed successfully
+Output: 94 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.170 (10.68.132.170)  0.733 ms 10.68.132.176 (10.68.132.176)  0.528 ms 10.68.132.166 (10.68.132.166)  0.653 ms
+ 3  138.197.249.52 (138.197.249.52)  1.676 ms 138.197.249.60 (138.197.249.60)  0.718 ms 138.197.249.62 (138.197.249.62)  0.904 ms
+ 4  138.197.250.139 (138.197.250.139)  0.341 ms 138.197.250.135 (138.197.250.135)  0.345 ms 138.197.250.137 (138.197.250.137)  0.315 ms
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  185.476 ms *
+ 9  * * *
+10  * * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  149.905 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  149.869 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  148.986 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  147.555 ms
+12  * * *
+13  * web.stanford.edu (171.67.215.200)  145.868 ms *
+
+Command executed successfully
+Output: 95 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.170 (10.68.132.170)  5.972 ms 10.68.132.172 (10.68.132.172)  0.455 ms 10.68.132.176 (10.68.132.176)  0.403 ms
+ 3  138.197.249.48 (138.197.249.48)  2.236 ms 138.197.249.62 (138.197.249.62)  0.886 ms 138.197.249.60 (138.197.249.60)  1.167 ms
+ 4  138.197.250.141 (138.197.250.141)  0.529 ms 138.197.250.143 (138.197.250.143)  0.268 ms 138.197.250.137 (138.197.250.137)  0.321 ms
+ 5  * * 138.197.250.188 (138.197.250.188)  0.405 ms
+ 6  * * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  281.994 ms  282.063 ms *
+ 8  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  281.983 ms * *
+ 9  * * *
+10  * * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.821 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.792 ms  148.725 ms  148.690 ms
+12  * * *
+13  web.stanford.edu (171.67.215.200)  145.489 ms * *
+
+Command executed successfully
+Output: 96 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.174 (10.68.132.174)  2.584 ms 10.68.132.168 (10.68.132.168)  4.122 ms 10.68.132.166 (10.68.132.166)  0.398 ms
+ 3  138.197.249.48 (138.197.249.48)  0.789 ms 138.197.249.54 (138.197.249.54)  3.868 ms 138.197.249.56 (138.197.249.56)  1.649 ms
+ 4  138.197.250.143 (138.197.250.143)  0.243 ms 138.197.250.139 (138.197.250.139)  0.882 ms 138.197.250.137 (138.197.250.137)  0.388 ms
+ 5  * * 138.197.250.188 (138.197.250.188)  1.252 ms
+ 6  hurricane-ic-360371.ip.twelve99-cust.net (62.115.175.190)  134.285 ms * *
+ 7  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  95.748 ms * *
+ 8  hurricane-ic-370684.ip.twelve99-cust.net (213.248.104.142)  151.056 ms * *
+ 9  * * *
+10  * stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  150.781 ms  150.750 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  150.719 ms  148.808 ms  148.763 ms
+12  * woa-west-rtr-vl3.SUNet (171.66.255.132)  147.573 ms *
+13  * * web.stanford.edu (171.67.215.200)  145.770 ms
+
+Command executed successfully
+Output: 97 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.172 (10.68.132.172)  0.481 ms 10.68.132.168 (10.68.132.168)  1.148 ms 10.68.132.162 (10.68.132.162)  0.447 ms
+ 3  138.197.249.54 (138.197.249.54)  0.974 ms 138.197.249.58 (138.197.249.58)  0.701 ms 138.197.249.56 (138.197.249.56)  0.700 ms
+ 4  138.197.250.157 (138.197.250.157)  0.372 ms 138.197.250.153 (138.197.250.153)  0.346 ms 138.197.250.139 (138.197.250.139)  0.335 ms
+ 5  138.197.250.188 (138.197.250.188)  0.718 ms *  0.582 ms
+ 6  * * *
+ 7  * * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  86.650 ms
+ 8  * * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  109.401 ms
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.964 ms *  148.882 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.851 ms  148.773 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  147.852 ms
+12  * * woa-west-rtr-vl2.SUNet (171.64.255.132)  147.749 ms
+13  * * *
+14  web.stanford.edu (171.67.215.200)  146.727 ms  146.654 ms  146.630 ms
+
+Command executed successfully
+Output: 98 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * 10.68.132.168 (10.68.132.168)  0.643 ms  0.611 ms
+ 3  138.197.249.56 (138.197.249.56)  0.843 ms 138.197.249.62 (138.197.249.62)  0.892 ms 138.197.249.52 (138.197.249.52)  0.806 ms
+ 4  138.197.250.153 (138.197.250.153)  0.296 ms 138.197.250.141 (138.197.250.141)  0.321 ms 138.197.250.137 (138.197.250.137)  0.438 ms
+ 5  * * *
+ 6  * * *
+ 7  * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  80.961 ms *
+ 8  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  80.923 ms * *
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.680 ms  148.710 ms  148.728 ms
+11  woa-west-rtr-vl3.SUNet (171.66.255.132)  147.637 ms  147.437 ms  147.757 ms
+12  * * woa-west-rtr-vl3.SUNet (171.66.255.132)  147.657 ms
+13  * * *
+14  web.stanford.edu (171.67.215.200)  145.923 ms  146.087 ms  146.058 ms
+
+Command executed successfully
+Output: 99 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.172 (10.68.132.172)  0.621 ms 10.68.132.166 (10.68.132.166)  0.494 ms 10.68.132.162 (10.68.132.162)  0.462 ms
+ 3  138.197.249.60 (138.197.249.60)  0.954 ms 138.197.249.50 (138.197.249.50)  9.351 ms 138.197.249.56 (138.197.249.56)  0.783 ms
+ 4  138.197.250.137 (138.197.250.137)  0.428 ms 138.197.250.135 (138.197.250.135)  0.460 ms 138.197.250.141 (138.197.250.141)  0.359 ms
+ 5  138.197.250.188 (138.197.250.188)  0.437 ms  0.408 ms  0.379 ms
+ 6  * * *
+ 7  * * *
+ 8  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  107.599 ms  107.619 ms hurricane-ic-370684.ip.twelve99-cust.net (213.248.104.142)  146.279 ms
+ 9  * * *
+10  * hurricane-ic-366923.ip.twelve99-cust.net (195.12.255.210)  146.733 ms stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.735 ms
+11  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  148.693 ms  148.608 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  148.236 ms
+12  * * *
+13  web.stanford.edu (171.67.215.200)  150.457 ms *  150.419 ms
+
+Command executed successfully
+Output: 100 for : stanford.edu
+traceroute to stanford.edu (171.67.215.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.68.132.162 (10.68.132.162)  0.444 ms 10.68.132.168 (10.68.132.168)  0.465 ms 10.68.132.170 (10.68.132.170)  0.398 ms
+ 3  138.197.249.60 (138.197.249.60)  7.866 ms 138.197.249.62 (138.197.249.62)  7.836 ms 138.197.249.48 (138.197.249.48)  7.809 ms
+ 4  138.197.250.141 (138.197.250.141)  0.306 ms 138.197.250.135 (138.197.250.135)  0.278 ms 138.197.250.139 (138.197.250.139)  7.727 ms
+ 5  138.197.250.188 (138.197.250.188)  7.699 ms * *
+ 6  * * *
+ 7  * hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  81.849 ms  81.717 ms
+ 8  hurricane-ic-366922.ip.twelve99-cust.net (62.115.183.158)  81.817 ms *  81.596 ms
+ 9  * * *
+10  stanford-university.e0-62.core2.pao1.he.net (184.105.177.238)  150.946 ms  156.697 ms *
+11  woa-west-rtr-vl2.SUNet (171.64.255.132)  148.483 ms woa-west-rtr-vl3.SUNet (171.66.255.132)  148.097 ms woa-west-rtr-vl2.SUNet (171.64.255.132)  148.408 ms
+12  woa-west-rtr-vl3.SUNet (171.66.255.132)  148.028 ms *  148.315 ms
+13  web.stanford.edu (171.67.215.200)  147.940 ms * *
+
